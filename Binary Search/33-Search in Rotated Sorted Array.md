@@ -1,4 +1,5 @@
 **33 . Search in Rotated Sorted Array**
+*****Tag: binary search
 
 There is an integer array ```nums``` sorted in ascending order (with **distinct** values).
 
@@ -29,10 +30,10 @@ class Solution:
         """
         The list looks like:
         [a0, +, + ,..., max, min, +, +, +, an] and a0 > an
-        namely 2 phases of increasing, in between is a steep cliff
-        We use binary search, and need to distinguish which phase we are on
-        # first phase: the mid is not "under the cliff"
-        # second phase: the mid is "under the cliff"
+        namely 2 phases of increasing, in between is a "steep cliff"
+        We use binary search, and need to distinguish 2 scenarios
+        # first : the mid is not "under the cliff"
+        # second : the mid is "under the cliff"
         
         Time Complexity: O(logn) by binary search
         Space Complexity: O(1) 
