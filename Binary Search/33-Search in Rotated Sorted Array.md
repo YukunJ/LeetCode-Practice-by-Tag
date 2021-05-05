@@ -35,8 +35,8 @@ class Solution:
         [a0, +, + ,..., max, min, +, +, +, an] and a0 > an
         namely 2 phases of increasing, in between is a "steep cliff"
         We use binary search, and need to distinguish 2 scenarios
-        # first : the mid is not "under the cliff"
-        # second : the mid is "under the cliff"
+        # first case : the mid is not "under the cliff"
+        # second case : the mid is "under the cliff"
         
         Time Complexity: O(logn) by binary search
         Space Complexity: O(1) 
@@ -48,7 +48,7 @@ class Solution:
             mid = l + (r-l)//2
             if nums[mid] == target: # find
                 return mid
-            elif nums[l] <= nums[mid]: # first phase : not under the cliff
+            elif nums[l] <= nums[mid]: # first case : not under the cliff
                 if nums[l] <= target < nums[mid]:
                     r = mid - 1
                 else:
@@ -57,7 +57,7 @@ class Solution:
                     # or target < nums[mid] & target < nums[l]
                     # need to search the "cliff" direction
                     l = mid + 1
-            else: # second phase : under the cliff
+            else: # second case : under the cliff
                 if nums[mid] < target <= nums[r]:
                     l = mid + 1
                 else:
