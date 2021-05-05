@@ -1,4 +1,4 @@
-** 34. Find First and Last Position of Element in Sorted Array**
+**34. Find First and Last Position of Element in Sorted Array**
 
     Tag: binary search
 
@@ -7,6 +7,8 @@ Given an array of integers ```nums``` sorted in ascending order, find the starti
 If ```target``` is not found in the array, return ```[-1, -1]```.
 
 **Follow up**: Could you write an algorithm with ```O(log n)``` runtime complexity?
+
+----------
 
 **Example1**:
 
