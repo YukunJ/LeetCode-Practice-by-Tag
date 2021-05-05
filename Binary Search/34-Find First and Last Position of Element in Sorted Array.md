@@ -10,8 +10,6 @@ If ```target``` is not found in the array, return ```[-1, -1]```.
 
 **Follow up**: Could you write an algorithm with ```O(log n)``` runtime complexity?
 
-----------
-
 **Example1**:
 
         Input: nums = [5,7,7,8,8,10], target = 8
@@ -27,7 +25,7 @@ If ```target``` is not found in the array, return ```[-1, -1]```.
         Input: nums = [], target = 0
         Output: [-1,-1]
 
-------------
+-----------
 
 ```python
 class Solution:
