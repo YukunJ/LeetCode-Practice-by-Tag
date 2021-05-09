@@ -29,4 +29,4 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **142**. [Linked List Cycle II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/142-Linked%20List%20Cycle%20II.md)
 
 **Heap**
-**215**. [Kth Largest Element in an Array]()
+**215**. [Kth Largest Element in an Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/215-Kth%20Largest%20Element%20in%20an%20Array.md)
