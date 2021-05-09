@@ -23,3 +23,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **Dynamic Programming**
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
+
+**Linked List**
+
+**142**. [Linked List Cycle II]()
