@@ -13,6 +13,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 **Follow up**: Can you solve it using ```O(1)``` (i.e. constant) memory?
 
 **Example1**:
+
 ![avatar](Fig/142-E1.png)
 
         Input: head = [3,2,0,-4], pos = 1
@@ -20,6 +21,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
         Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
 **Example2**:
+
 ![avatar](Fig/142-E2.png)
 
         Input: head = [1,2], pos = 0
@@ -27,6 +29,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
         Explanation: There is a cycle in the linked list, where tail connects to the first node.  
         
 **Example3**:
+
 ![avatar](Fig/142-E3.png)
 
         Input: head = [1], pos = -1
