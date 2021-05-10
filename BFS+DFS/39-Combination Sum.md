@@ -50,7 +50,10 @@ class Solution:
         it's like a tree expanding, with each weight meaning target - node_value
         The tree reaches leaf node when weight <= 0
         
-        Time Complexity: O(S) where S is the length of all possible solutions
+        Time Complexity: O(S) where S is the length of all possible solutions. 
+                        Another very loose upper bound is O(target * 2^{target}). 
+                        Consider each level only reduce by 1, need to go "target" number of levels down to bottom
+                        There are 2^{target} leaves in the bottom, each with height "target"
         Space Complexity: O(target) the stack for recursion is at most target high,                             since each recursion reduce the target at least by 1
         """
         def dfs(candidates: List[int], target: int, idx: int, path: List[int], res: List[List[int]]):
