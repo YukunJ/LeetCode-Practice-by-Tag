@@ -24,7 +24,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Dynamic Programming**
 
-**132**. [Palindrome Partitioning II]()
+**132**. [Palindrome Partitioning II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/132-Palindrome%20Partitioning%20II.md)
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
 
