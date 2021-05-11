@@ -20,6 +20,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **162**. [Find Peak Element](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/162-Find%20Peak%20Element.md)
 
+**240**. [Search a 2D Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/240-Search%20a%202D%20Matrix%20II.md)
+
 ------- 
 
 **Dynamic Programming**
