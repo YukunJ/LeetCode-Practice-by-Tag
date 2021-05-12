@@ -39,9 +39,9 @@ class Solution:
         Time Complexity: O(n) 
                         where n is the number of nodes in the binary tree
         Space Complexity: O(n) 
-                        in full binary tree case, need O(n) space to store next level, since the last level has approximately n/2 nodes
+                        in full binary tree case, need O(n) space to store next level, 
+                        since the last level has approximately n/2 nodes
         """
-        from collections import deque
         if not root:
             return []
         queue = [root]
