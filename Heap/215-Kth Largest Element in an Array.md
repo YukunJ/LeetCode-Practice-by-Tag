@@ -49,7 +49,7 @@ class Solution:
         return myheap[0]
 ```
 
-**Solution2(Qucik Sort)**
+**Solution2(Quick Sort)**
 
 ```python
 class Solution:
