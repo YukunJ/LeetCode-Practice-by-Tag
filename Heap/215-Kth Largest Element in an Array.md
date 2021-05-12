@@ -20,7 +20,7 @@ Note that it is the ```k-th``` largest element in the sorted order, not the ```k
 
 -----------
 
-**Solution1(Heap)**
+**Solution1(Min Heap)**
 
 ```python
 class Solution:
@@ -49,7 +49,7 @@ class Solution:
         return myheap[0]
 ```
 
-**Solution1(qsort)**
+**Solution2(Qucik Sort)**
 
 ```python
 class Solution:
