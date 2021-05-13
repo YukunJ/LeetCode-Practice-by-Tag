@@ -36,6 +36,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Linked List**
 
+**25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
+
 **142**. [Linked List Cycle II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/142-Linked%20List%20Cycle%20II.md)
 
 ------- 
