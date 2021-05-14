@@ -55,3 +55,40 @@ class Solution:
             ans += min(leftMax[i], rightMax[i])-height[i]
         return ans
 ```
+
+-----------
+
+**Solution2: monotone stack**
+
+```python
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        """
+        We can make use of a monotone stack
+        The stack's elements are in decreasing order from bottom to top
+        Then we iterate through the height list, 
+        when : stack[-2] > stack[-1] < height[i], there is rain to be collected = width * height = (i-index(stack[-2])-1) * (min(height[i], stack[-2])-stack[-1])
+        namely, there is a "V" shape, with stack[-1] on the bottom
+
+        Time Complexity : O(n) each element in height enter and exit stack at most once
+        Space Complexity: O(n) the monotone stack stores at most n elements
+        """
+        
+        n = len(height)
+        if n <= 2: # boundary case
+            return 0
+        
+        stack = list()
+        ans = 0
+        for i, h in enumerate(height):
+            while stack and h > height[stack[-1]]:
+                bottom = stack.pop() # the bottom of "V" shape
+                if not stack:
+                    break # jump out of "while" loop
+                left = stack[-1]
+                curr_width = i - left - 1
+                curr_height = min(h, height[left]) - height[bottom]
+                ans += curr_width * curr_height
+            stack.append(i)
+        return ans
+```
