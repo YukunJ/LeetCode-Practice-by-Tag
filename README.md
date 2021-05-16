@@ -39,7 +39,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 ------- 
 **Greedy**
 
-**300**. [Longest Increasing Subsequence]()
+**300**. [Longest Increasing Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/300-Longest%20Increasing%20Subsequence.md)
 
 ------- 
 
