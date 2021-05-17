@@ -28,7 +28,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **5**. [Longest Palindromic Substring](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/5-Longest%20Palindromic%20Substring.md)
 
-**10**. [Regular Expression Matching]()
+**10**. [Regular Expression Matching](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/10-Regular%20Expression%20Matching.md)
 
 **42**. [Trapping Rain Water](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/42-Trapping%20Rain%20Water.md)
 
