@@ -36,6 +36,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **95**. [Unique Binary Search Trees II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/95-Unique%20Binary%20Search%20Trees%20II.md)
 
+**121**. [Best Time to Buy and Sell Stock]()
+
 **132**. [Palindrome Partitioning II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/132-Palindrome%20Partitioning%20II.md)
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
