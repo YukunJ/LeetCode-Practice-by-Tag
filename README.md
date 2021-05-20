@@ -8,7 +8,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Hashmap**
 
-**1**. [Two Sum]()
+**1**. [Two Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/1-Two%20Sum.md)
 
 **Binary Search**
 
