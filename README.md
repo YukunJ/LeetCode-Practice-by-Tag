@@ -6,6 +6,10 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
+**Hashmap**
+
+**1**. [Two Sum]()
+
 **Binary Search**
 
 **33**. [Search in Rotated Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/33-Search%20in%20Rotated%20Sorted%20Array.md)
