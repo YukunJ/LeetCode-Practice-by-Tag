@@ -42,6 +42,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **45**. [Jump Game II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/45-Jump%20Game%20II.md)
 
+**62**. [Unique Paths]()
+
 **95**. [Unique Binary Search Trees II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/95-Unique%20Binary%20Search%20Trees%20II.md)
 
 **121**. [Best Time to Buy and Sell Stock](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/121-Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
