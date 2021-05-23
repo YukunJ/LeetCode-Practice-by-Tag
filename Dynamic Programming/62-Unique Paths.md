@@ -14,7 +14,7 @@ How many possible unique paths are there?
 
 ![avatar](Fig/62-E1.png)
 
-        nput: m = 3, n = 7
+        Input: m = 3, n = 7
         Output: 28
         
 **Example2**:
