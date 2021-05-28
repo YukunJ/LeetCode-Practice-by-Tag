@@ -48,7 +48,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **70**. [Climbing Stairs](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/70-Climbing%20Stairs.md)
 
-**91**. [Decoding Ways](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/91-Decode%20Ways.md)
+**91**. [Decode Ways](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/91-Decode%20Ways.md)
 
 **95**. [Unique Binary Search Trees II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/95-Unique%20Binary%20Search%20Trees%20II.md)
 
