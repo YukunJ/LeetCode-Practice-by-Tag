@@ -65,7 +65,7 @@ class Solution:
         """
 
         n = len(s)
-        # init P(0) and P(1), "curr" starts as  empty string result
+        # init P(0) and P(1), "curr" starts as empty string result
         prev, curr = 0, 1 
         for i in range(1, n+1):
             temp = 0
