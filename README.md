@@ -73,6 +73,12 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
+**Two Pointers**
+
+**15**. [3Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/15-3Sum.md)
+
+------- 
+
 **Linked List**
 
 **25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
