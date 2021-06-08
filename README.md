@@ -111,6 +111,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **39**. [Combination Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/39-Combination%20Sum.md)
 
+**46**. [Permutations](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/46-Permutations.md)
+
 **102**. [Binary Tree Level Order Traversal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/102-Binary%20Tree%20Level%20Order%20Traversal.md)
 
 **114**. [Flatten Binary Tree to Linked List](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/114-Flatten%20Binary%20Tree%20to%20Linked%20List.md)
