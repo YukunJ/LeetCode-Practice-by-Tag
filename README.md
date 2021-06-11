@@ -129,4 +129,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **131**. [Palindrome Partitioning](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/131-Palindrome%20Partitioning.md)
 
+**200**. [Number of Islands](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/200-Number%20of%20Islands.md)
+
 ------- 
