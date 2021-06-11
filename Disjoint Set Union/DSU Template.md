@@ -27,6 +27,7 @@ class Partition:
     def make_group(self, e):
         """Makes a new group containing element e, and return its Position."""
         return self.Position(self, e)
+        
     def find(self, p):
         """Finds the group containing p and return the position of its leader."""
         if p._parent != p:
