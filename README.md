@@ -72,6 +72,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **221**. [Maximal Square](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/221-Maximal%20Square.md)
 
+**322**. [Coin Change](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/322-Coin%20Change.md)
+
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
 
 ------- 
