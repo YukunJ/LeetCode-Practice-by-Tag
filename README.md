@@ -137,6 +137,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Disjoint Set Union**
 
-[Code Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/DSU%20Template.md)
+**Template**. [DSU Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/DSU%20Template.md)
 
 ------- 
