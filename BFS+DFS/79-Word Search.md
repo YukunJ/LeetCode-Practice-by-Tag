@@ -64,8 +64,6 @@ class Solution:
             dfs(row, col-1, ptr+1)
             dfs(row, col+1, ptr+1)
             board[row][col] = old_char # cancel operation
-            
-            
 
 
         # search each cell
