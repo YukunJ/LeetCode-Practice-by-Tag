@@ -134,3 +134,9 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **200**. [Number of Islands](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/200-Number%20of%20Islands.md)
 
 ------- 
+
+**Disjoint Set Union**
+
+[Code Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/DSU%20Template.md)
+
+------- 
