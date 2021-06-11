@@ -119,6 +119,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **78**. [Subsets](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/78-Subsets.md)
 
+**79**. [Word Search](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/79-Word%20Search.md)
+
 **90**. [Subsets II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/90-Subsets%20II.md)
 
 **102**. [Binary Tree Level Order Traversal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/102-Binary%20Tree%20Level%20Order%20Traversal.md)
