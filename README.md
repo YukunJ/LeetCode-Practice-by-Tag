@@ -133,6 +133,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **131**. [Palindrome Partitioning](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/131-Palindrome%20Partitioning.md)
 
+**282**. [Expression Add Operators](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/282-Expression%20Add%20Operators.md)
+
 ------- 
 
 **Disjoint Set Union**
