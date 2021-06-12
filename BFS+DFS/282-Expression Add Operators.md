@@ -49,16 +49,17 @@ class Solution:
         notice we need to keep track of last operand, 
             because '*' has higher operational precedence
         for example, we want 10 + 2 * 4, but when we are 10 + 2 we have 12, 
-            we don't want 12 *4, we want to remember last operand is 2
+            if we only keep track of the "whole value" of the past, we could not retrieve 2 to multiply with 4
+            we don't want 12 * 4, we want to remember last operand is 2
         
-        Time Complexity : O(4^n) in each step 4 possibities, exponential growth
-        Space Complexity : O(4^n) answer string and recursion stack height
+        Time Complexity : O(4^n) in each step we have 4 possibities to branch out, exponential growth
+        Space Complexity : O(n) answer string and recursion stack height
         """
         
         N = len(num)
         answer = []
         
-        def recurse(index: int, prev_op: int, curr_op: int, value: int, string: list[str]):
+        def recurse(index: int, prev_op: int, curr_op: int, value: int, string: List[str]):
             if index == N:
                 if value == target and curr_op == 0:
                     # we have a fake '0+' at the beginning of string
@@ -76,14 +77,15 @@ class Solution:
             string.pop(); string.pop()
             
             if string: 
-                # can do subtraction and division if previous operand is not None
+                # can do subtraction and division only if previous operand is not None
+                # since we don't support unary operator, cannot take negation of a number, say "5" -> "-5"
                 
                 # Subtraction
                 string.append('-'); string.append(str(curr_op))
                 recurse(index+1, -curr_op, 0, value-curr_op, string)
                 string.pop(); string.pop()
                 
-                # Multiplication
+                # Multiplication, need to "give back" the previous operand
                 string.append('*'); string.append(str(curr_op))
                 recurse(index+1, prev_op * curr_op, 0, value-prev_op+prev_op*curr_op, string)
                 string.pop(); string.pop()
