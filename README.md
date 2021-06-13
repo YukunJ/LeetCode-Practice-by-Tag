@@ -143,7 +143,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **207**. [Course Schedule](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/207-Course%20Schedule.md)
 
-**210**. [Course Schedule II]((https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/207-Course%20Schedule%20II.md))
+**210**. [Course Schedule II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/210-Course%20Schedule%20II.md)
 
 ------- 
 
