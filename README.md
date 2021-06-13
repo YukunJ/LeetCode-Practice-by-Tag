@@ -141,6 +141,10 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Template**. [Topo Sort Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/Topological%20Sort%20Template.md)
 
+**207**. [Course Schedule](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/207-Course%20Schedule.md)
+
+**210**. [Course Schedule II]((https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/207-Course%20Schedule%20II.md))
+
 ------- 
 
 **Disjoint Set Union**
