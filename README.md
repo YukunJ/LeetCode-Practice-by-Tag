@@ -46,6 +46,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **63**. [Unique Paths II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/63-Unique%20Paths%20II.md)
 
+**64**. [Minimum Path Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/64-Minimum%20Path%20Sum.md)
+
 **70**. [Climbing Stairs](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/70-Climbing%20Stairs.md)
 
 **91**. [Decode Ways](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/91-Decode%20Ways.md)
