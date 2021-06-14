@@ -109,6 +109,12 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
+**Tree**
+
+**863**. [All Nodes Distance K in Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/863-All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
+
+------- 
+
 **DFS+BFS**
 
 **17**. [Letter Combinations of a Phone Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/17-Letter%20Combinations%20of%20a%20Phone%20Number.md)
