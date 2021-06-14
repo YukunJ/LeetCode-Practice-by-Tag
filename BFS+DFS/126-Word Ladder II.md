@@ -1,4 +1,4 @@
-**126. Word Ladde IIr**
+**126. Word Ladde II**
 
 ```Tag: BFS```
 
