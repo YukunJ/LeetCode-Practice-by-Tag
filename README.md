@@ -159,6 +159,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Trie**
 
-**Template**. [Trie Template]()
+**Template**. [Trie Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/Trie%20Template.md)
 
 ------- 
