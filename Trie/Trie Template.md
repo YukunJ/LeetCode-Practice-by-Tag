@@ -6,7 +6,12 @@
 class Trie:
     """
     Time Complexity : O(|S|) for operation, where S is the length of input string for search or insert
-    Space Complexity : the worst case is that, all inserted words have different prefix. Given we have 26 characters in alphabet, if the Trie has height n, then the space storage is O(26^n). And to interpret the height "n" in term of the sum of total inserted words |sigma|, we image, each character in |sigma| occupy an individual place in the Trie, contributing to 26 children. Therefore, the space Complexity could also be written as O(|sigma|*26), where |sigma| is the sum of character length of all inserted words.
+    
+    Space Complexity : the worst case is that, all inserted words have different prefix. Given we have 26 characters in alphabet, 
+    if the Trie has height n, then the space storage is O(26^n). And to interpret the height "n" in term of the sum of total inserted words |sigma|, 
+    we image, each character in |sigma| occupy an individual place in the Trie, contributing to 26 children. 
+    Therefore, the space Complexity could also be written as O(|sigma|*26), 
+    where |sigma| is the sum of character length of all inserted words.
     """
     def __init__(self):
         """
