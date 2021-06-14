@@ -1,6 +1,6 @@
 ## Trie (Prefix Tree)
 
-**Source**: Leetcode Question **208**. [Implement Trie(Prefix Tree](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shi-xian-trie-qian-zhui-shu-by-leetcode-ti500/)
+**Source**: Leetcode Question **208**. [Implement Trie(Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/shi-xian-trie-qian-zhui-shu-by-leetcode-ti500/)
 
 ```python
 class Trie:
