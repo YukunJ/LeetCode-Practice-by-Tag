@@ -156,3 +156,9 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **200**. [Number of Islands](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/200-Number%20of%20Islands.md)
 
 ------- 
+
+**Trie**
+
+**Template**. [Trie Template]()
+
+------- 
