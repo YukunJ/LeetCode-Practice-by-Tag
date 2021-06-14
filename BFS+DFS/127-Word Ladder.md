@@ -39,7 +39,7 @@ class Solution:
         
         denote N := len(wordList), C := len(beginWord)
         Time Complexity : O(N*C^2) notice re-construction of a word transformed takes O(C)
-        Space Complexity : O(N^2*C) the graph contains O(N) entries and each entries points to at most a set of size O(N), in which each word takes O(C)
+        Space Complexity : O(N*C^2) the graph contains O(N) entries and each entries points to at most a set of size O(26*C), in which each word takes O(C)
         """
         
         if endWord not in wordList: # boundary checking
