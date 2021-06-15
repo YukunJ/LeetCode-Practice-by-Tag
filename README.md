@@ -111,6 +111,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Tree**
 
+**124**. [Binary Tree Maximum Path Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/124-Binary%20Tree%20Maximum%20Path%20Sum.md)
+
 **863**. [All Nodes Distance K in Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/863-All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
 ------- 
