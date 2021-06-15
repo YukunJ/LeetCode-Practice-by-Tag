@@ -35,5 +35,37 @@ Return a list of the values of all nodes that have a distance ```k``` from the `
 
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
+        """
+        This is a BFS problem in the binary tree setting
+        The little problem is that, in a binary tree we can only go left/right in a down-ward way
+        Therefore, to properly use BFS, we modify every node to add a parent field
+
+        denote N := number of nodes in the tree
+        Time Complexity : O(N)
+        Space Complexity : O(N)
+        """
+        def add_parent(node: TreeNode, parent: TreeNode = None) -> None:
+            """Recursivly add parent for nodes in the binary tree"""
+            if node:
+                node.parent = parent 
+                add_parent(node.left, node)
+                add_parent(node.right, node)
+            return 
+        from collections import deque
+        add_parent(root) # add parent field for every node
+        ans = []
+        visited = set() 
+
+        queue = deque([(target, 0)])
+        while queue:
+            node, dist = queue.popleft()
+            visited.add(node)
+            if dist == k:
+                ans.append(node.val)
+                continue
+            for link_node in [node.left, node.right, node.parent]:
+                if link_node and link_node not in visited:
+                    queue.append((link_node, dist+1))
         
+        return ans    
 ```
