@@ -10,7 +10,7 @@ According to the ```definition of LCA on Wikipedia```: “The lowest common ance
 
 **Example1**:
 
-![avatar](Fig/263-E1.jpeg)
+![avatar](Fig/236-E1.jpeg)
 
         Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
         Output: 3
@@ -18,7 +18,7 @@ According to the ```definition of LCA on Wikipedia```: “The lowest common ance
 
  **Example2**:
 
-![avatar](Fig/263-E2.jpeg)
+![avatar](Fig/236-E2.jpeg)
 
         Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
         Output: 5
