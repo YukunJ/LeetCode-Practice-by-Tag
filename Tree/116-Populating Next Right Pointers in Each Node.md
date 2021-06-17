@@ -1,6 +1,6 @@
 **116. Populating Next Right Pointers in Each Node**
 
-```Tag: Tree/BFS/DFS```
+```Tag: Tree/BFS```
 
 **Description:**
 
