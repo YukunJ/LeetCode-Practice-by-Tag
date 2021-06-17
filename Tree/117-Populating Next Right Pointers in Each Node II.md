@@ -83,4 +83,6 @@ class Solution:
                     handle(curr.right)
                 curr = curr.next
             start = nextStart
+            
+        return root
 ```
