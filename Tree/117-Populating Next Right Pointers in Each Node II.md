@@ -65,8 +65,9 @@ class Solution:
                 prev.next = node 
             prev = node
 
-            if not root:
-                return root
+
+        if not root:
+            return root
         
         start = root
 
