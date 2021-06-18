@@ -113,6 +113,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **98**. [Validate Binary Search Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/98-Validate%20Binary%20Search%20Tree.md)
 
+**99**. [Recover Binary Search Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/99-Recover%20Binary%20Search%20Tree.md)
+
 **116**. [Populating Next Right Pointers in Each Node](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 
 **117**. [Populating Next Right Pointers in Each Node II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/117-Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
