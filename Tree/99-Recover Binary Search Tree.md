@@ -26,6 +26,8 @@ You are given the ```root of``` a binary search tree (BST), where exactly two no
 
 -----------
 
+**Solution1: DFS**
+
 ```python
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -71,5 +73,61 @@ class Solution:
             inorder_traversal(node.right)
                 
         inorder_traversal(root)
+        A.val, B.val = B.val, A.val # swap and correct the BST
+```
+
+-----------
+
+**Solution2: Morris algorithm**
+
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def recoverTree(self, root: TreeNode) -> None:
+        """
+        Morris traversal algorithm
+        always use the ".right" field to traversal the tree like a linked list
+        
+        Time Complexity : O(N)
+        Space Complexity : O(1)
+        """
+        prev = TreeNode(val=float("-inf"))
+        A = None # the first node of mistaken swap
+        B = None # the second node of mistaken swap
+        
+        while root:
+            if root.left:
+                predecessor = root.left
+                while predecessor.right and predecessor.right != root: 
+                    # try get the rightmost node in the left subtree
+                    predecessor = predecessor.right
+                    
+                if predecessor.right is None: # go deep into the left subtree
+                    predecessor.right = root
+                    root = root.left
+                else: # predecessor.right == root:
+                    # already finish with the left subtree
+                    if prev.val >= root.val:
+                        B = root
+                        if not A:
+                            A = prev
+                    prev = root
+                    predecessor.right = None # reset the predecessor's right pointer
+                    root = root.right # go into right subtree
+            else: 
+                # root.left is empty, directly compare
+                if prev.val >= root.val:
+                    B = root
+                    if not A:
+                        A = prev
+                prev = root
+                root = root.right
+                
+        
         A.val, B.val = B.val, A.val # swap and correct the BST
 ```
