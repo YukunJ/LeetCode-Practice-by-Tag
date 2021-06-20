@@ -115,6 +115,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **99**. [Recover Binary Search Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/99-Recover%20Binary%20Search%20Tree.md)
 
+**105**. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+
 **116**. [Populating Next Right Pointers in Each Node](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/116-Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 
 **117**. [Populating Next Right Pointers in Each Node II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/117-Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
