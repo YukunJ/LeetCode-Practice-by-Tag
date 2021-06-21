@@ -129,6 +129,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **236**. [Lowest Common Ancestor of a Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 
+**297**. [Serialize and Deserialize Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/297-Serialize%20and%20Deserialize%20Binary%20Tree.md)
+
 **543**. [Diameter of Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/543-Diameter%20of%20Binary%20Tree.md)
 
 **834**. [Sum of Distances in Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/834-Sum%20of%20Distances%20in%20Tree.md)
