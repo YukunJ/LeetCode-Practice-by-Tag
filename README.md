@@ -101,6 +101,12 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
+**Stack+Queue**
+
+**7**. [Reverse Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/7-Reverse%20Integer.md)
+
+------- 
+
 **Heap**
 
 **23**. [Merge k Sorted Lists](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/23-Merge%20k%20Sorted%20Lists.md)
