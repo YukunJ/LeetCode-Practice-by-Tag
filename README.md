@@ -105,6 +105,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **7**. [Reverse Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/7-Reverse%20Integer.md)
 
+**20**. [Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/20-Valid%20Parentheses.md)
+
 ------- 
 
 **Heap**
