@@ -107,6 +107,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **20**. [Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/20-Valid%20Parentheses.md)
 
+**150**. [Evaluate Reverse Polish Notation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/150-Evaluate%20Reverse%20Polish%20Notation.md)
+
 ------- 
 
 **Heap**
