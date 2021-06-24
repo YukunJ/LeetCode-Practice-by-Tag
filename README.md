@@ -123,6 +123,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **239**. [Sliding Window Maximum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/239-Sliding%20Window%20Maximum.md)
 
+**347**. [Top K Frequent Elements](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/347-Top%20K%20Frequent%20Elements.md)
+
 ------- 
 
 **Tree**
