@@ -203,7 +203,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Dijkstra+Bellman-Ford**
 
-**787**. [Cheapest Flights Within K Stops]()
+**787**. [Cheapest Flights Within K Stops](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dijkstra%2BBellman-Ford/787-Cheapest%20Flights%20Within%20K%20Stops.md)
 
 ------- 
 
