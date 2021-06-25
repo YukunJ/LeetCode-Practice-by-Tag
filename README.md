@@ -201,6 +201,12 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
+**Dijkstra+Bellman-Ford**
+
+**787**. [Cheapest Flights Within K Stops]()
+
+------- 
+
 **Disjoint Set Union**
 
 **Template**. [DSU Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/DSU%20Template.md)
