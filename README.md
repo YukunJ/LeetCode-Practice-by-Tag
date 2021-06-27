@@ -89,6 +89,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Two Pointers**
 
+**3**. [Longest Substring Without Repeating Characters](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/3-Longest%20Substring%20Without%20Repeating%20Characters.md)
+
 **15**. [3Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/15-3Sum.md)
 
 ------- 
