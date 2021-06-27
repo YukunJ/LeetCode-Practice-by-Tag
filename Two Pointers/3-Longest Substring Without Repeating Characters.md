@@ -44,8 +44,8 @@ class Solution:
         if not, add it, and move on
         else, we may move the prev pointer forward
         
-        Time complexity : O(n)
-        Space complexity : O(1)
+        Time complexity : O(n) left and right pointers will go through 0-n once only
+        Space complexity : O(1) ASCII characters are finite, around 100
         """
         if not s:
             return 0
