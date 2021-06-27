@@ -30,5 +30,35 @@ You may return the answer in **any order**. The answer is **guaranteed** to be *
 -----------
 
 ```python
-
+class Solution:
+    def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
+        """
+        This is a typical heap filtering problem
+        we only want to keep the k-closest points from origin, where k << len(points)
+        so we keep a size=k max-heap, 
+        only want current point's distance is smaller the heap top, 
+        then add it into the heap and pop out the head
+        Notice, python heapq by default is min-heap, 
+        so we take negation of distance to turn it into max-heap
+        
+        denote n := len(points)
+        Time Complexity : O(n*logk)
+        Space Complexity : O(k)
+        """
+        def squaredist2origin(point: List[int]) -> float:
+            """Helper function: compute the squared distance from origin"""
+            # no need to take the square root here
+            return point[0] * point[0] + point[1] * point[1] 
+        
+        import heapq
+        heap = []
+        for point in points:
+            if len(heap) < k:
+                heapq.heappush(heap, (-squaredist2origin(point), point))
+            else:
+                dist = squaredist2origin(point)
+                if dist < -heap[0][0]:
+                    heapq.heapreplace(heap, (-dist, point))
+        
+        return [point for _, point in heap]
 ```
