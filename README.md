@@ -95,6 +95,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **15**. [3Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/15-3Sum.md)
 
+**76**. [Minimum Window Substring](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/76-Minimum%20Window%20Substring.md)
+
 ------- 
 
 **Linked List**
