@@ -10,6 +10,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1**. [Two Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/1-Two%20Sum.md)
 
+**560**. [Subarray Sum Equals K](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/560-Subarray%20Sum%20Equals%20K.md)
+
 ------- 
 
 **Binary Search**
