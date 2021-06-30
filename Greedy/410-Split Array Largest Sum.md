@@ -93,7 +93,7 @@ class Solution:
 ```
 -----------
 
-**Solution2: Greedy+Binary Search**
+**Solution2: Greedy + Binary Search**
 
 ```python
 class Solution:
