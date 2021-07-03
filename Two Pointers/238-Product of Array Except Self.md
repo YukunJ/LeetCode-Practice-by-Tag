@@ -53,4 +53,6 @@ class Solution:
         for i in range(n-2, -1, -1):
             ans[i] *= right
             right *= nums[i]
+        
+        return ans
 ```
