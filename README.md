@@ -115,7 +115,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **209**. [Minimum Size Subarray Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/209-Minimum%20Size%20Subarray%20Sum.md)
 
-**238**. [Product Array Except Self ](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/238-Product%20of%20Array%20Except%20Self.md)
+**238**. [Product of Array Except Self ](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/238-Product%20of%20Array%20Except%20Self.md)
 
 **438**. [Find All Anagrams in a String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/438-Find%20All%20Anagrams%20in%20a%20String.md)
 
