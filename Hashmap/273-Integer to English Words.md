@@ -47,7 +47,7 @@ class Solution:
         
         denote n := digit len of input num := log(num)
         Time Complexity : O(n)
-        Space Complexity : O(n)
+        Space Complexity : O(1)
         """
         
         def one_digit(num: int) -> int:
