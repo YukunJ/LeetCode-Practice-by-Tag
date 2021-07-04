@@ -93,6 +93,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **300**. [Longest Increasing Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/300-Longest%20Increasing%20Subsequence.md)
 
+**334**. [Increasing Triplet Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/334-Increasing%20Triplet%20Subsequence.md)
+
 **410**. [Split Array Largest Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/410-Split%20Array%20Largest%20Sum.md)
 
 ------- 
