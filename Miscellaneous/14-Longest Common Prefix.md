@@ -27,13 +27,13 @@ class Solution:
         """
         The optimal case is that one string is a complete prefix subset of another
         namely the longest prefix length is min(len(str) for str in strs)
-		we use a single pointer to check every character of each string, 
+	we use a single pointer to check every character of each string, 
 		if not matched directly return
 		if matched, try check next character
 
-		denote n := len(strs), m := min(len(string)) in strs
-		Time Complexity : O(n*m)
-		Space Complexity : O(1)
+	denote n := len(strs), m := min(len(string)) in strs
+	Time Complexity : O(n*m)
+	Space Complexity : O(1)
         """
         max_prefix_length = min([len(string) for string in strs]) if strs else 0
         n = len(strs)
