@@ -262,3 +262,9 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **Template**. [Trie Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/Trie%20Template.md)
 
 ------- 
+
+**Miscellaneous**
+
+**14**. [Longest Common Prefix]https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/14-Longest%20Common%20Prefix.md
+
+------- 
