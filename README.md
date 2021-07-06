@@ -247,6 +247,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **787**. [Cheapest Flights Within K Stops](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dijkstra%2BBellman-Ford/787-Cheapest%20Flights%20Within%20K%20Stops.md)
 
+
+
 ------- 
 
 **Disjoint Set Union**
@@ -265,6 +267,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Miscellaneous**
 
-**14**. [Longest Common Prefix]https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/14-Longest%20Common%20Prefix.md
+**14**. [Longest Common Prefix](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/14-Longest%20Common%20Prefix.md)
 
 ------- 
