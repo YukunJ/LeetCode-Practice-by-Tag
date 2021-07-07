@@ -58,6 +58,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **84**. [Largest Rectangle in Histogram](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/84-Largest%20Rectangle%20in%20Histogram.md)
 
+**85**. [Maximal Rectangle](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/85-Maximal%20Rectangle.md)
+
 **91**. [Decode Ways](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/91-Decode%20Ways.md)
 
 **95**. [Unique Binary Search Trees II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/95-Unique%20Binary%20Search%20Trees%20II.md)
