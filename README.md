@@ -36,7 +36,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 ------- 
 
-**Dynamic Programming+Monotone Stack**
+**Dynamic Programming**
 
 **5**. [Longest Palindromic Substring](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/5-Longest%20Palindromic%20Substring.md)
 
