@@ -149,6 +149,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **7**. [Reverse Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/7-Reverse%20Integer.md)
 
+**9**. [Palindrome Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/9-Palindrome%20Number.md)
+
 **20**. [Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/20-Valid%20Parentheses.md)
 
 **150**. [Evaluate Reverse Polish Notation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/150-Evaluate%20Reverse%20Polish%20Notation.md)
