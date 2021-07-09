@@ -105,6 +105,7 @@ class NestedIterator:
                     self.iterator = None
                     self.ptr += 1
         return False
+	
 # Your NestedIterator object will be instantiated and called as such:
 # i, v = NestedIterator(nestedList), []
 # while i.hasNext(): v.append(i.next())
