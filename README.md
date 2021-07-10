@@ -159,6 +159,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **227**. [Basic Calculator II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/227.%20Basic%20Calculator%20II.md)
 
+**394**. [Decode String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/394-Decode%20String.md)
+
 **735**. [Asteroid Collision](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/735-Asteroid%20Collision.md)
 
 ------- 
