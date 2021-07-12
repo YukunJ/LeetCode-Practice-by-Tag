@@ -283,6 +283,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **146**. [LRU Cache](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/146-LRU%20Cache.md)
 
+**155**. [Min Stack](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/155-Min%20Stack.md)
+
 **341**. [Flatten Nested Iterator](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/341-Flatten%20Nested%20List%20Iterator.md)
 
 ------- 
