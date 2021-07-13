@@ -35,8 +35,7 @@ Design an algorithm to serialize and deserialize a **binary search tree**. There
 class Codec:
     """
     This question is strongly related to Q105. <Construct Binary Tree from Preorder and Inorder Traversal>
-    From that question, we know that if given the preorder and inorder traversal list of a BST,
-        we could re-construct the BST
+    From that question, we know that if given the preorder and inorder traversal list of a BST, we could re-construct the BST
     Here in order to serialize and deserialize the BST,
         in serialization, we just create the preorder and inorder traversal list
         in de-serialization, we follow the recursion approach in Q105
@@ -111,7 +110,7 @@ class Codec:
 class Codec:
     """
     We are not utiizing the fact that a BST is "sorted", being different from a normal binary tree
-	we don't need inorder traversal list here, because sorted(pre-order list/ post-order list) = inorder list
+    we don't need inorder traversal list here, because sorted(pre-order list/ post-order list) = inorder list
     We could optimize the space by half that we only need either pre-order list or post-order list
     For space convenience in stack.pop(), we use post-order traversal
 
