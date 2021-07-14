@@ -1,6 +1,6 @@
 **56. Merge Intervals**
 
-```Tag: Sorting```
+```Tag: Sorting/Pointer Sliding```
 
 **Description:**
 
