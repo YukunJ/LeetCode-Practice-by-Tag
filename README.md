@@ -123,6 +123,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **31**. [Next Permutation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/31-Next%20Permutation.md)
 
+**56**. [Merge Intervals](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/56-Merge%20Intervals.md)
+
 **76**. [Minimum Window Substring](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/76-Minimum%20Window%20Substring.md)
 
 **202**. [Happy Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/202-Happy%20Number.md)
