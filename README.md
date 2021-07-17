@@ -307,6 +307,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **54**. [Spiral Matrix](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/54-Spiral%20Matrix.md)
 
+**59**. [Spiral Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/59-Spiral%20Matrix%20II.md)
+
 ------- 
 
 **Miscellaneous**
