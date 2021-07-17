@@ -305,6 +305,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **48**.[Rotate Image](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/48-Rotate%20Image.md)
 
+**54**. [Spiral Matrix](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/54-Spiral%20Matrix.md)
+
 ------- 
 
 **Miscellaneous**
