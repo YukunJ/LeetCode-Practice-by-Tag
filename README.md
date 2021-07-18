@@ -12,6 +12,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **13**. [Roman to Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/13-Roman%20to%20Integer.md)
 
+**49**. [Group Anagrams](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/49-Group%20Anagrams.md)
+
 **166**. [Fraction to Recurring Decimal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/166-Fraction%20to%20Recurring%20Decimal.md)
 
 **560**. [Subarray Sum Equals K](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/560-Subarray%20Sum%20Equals%20K.md)
