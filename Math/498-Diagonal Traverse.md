@@ -50,7 +50,7 @@ class Solution:
                     row, col = row-1, col+1
                     ans.append(mat[row][col])
                 if col+1 <= col_max:
-					 # unless at last column, go right first
+		    # unless at last column, go right first
                     col += 1
                 else:
                     row += 1
@@ -60,7 +60,7 @@ class Solution:
                     row, col = row+1, col-1
                     ans.append(mat[row][col])
                 if row+1 <= row_max: 
-					# unless at last row, go down first
+		    # unless at last row, go down first
                     row += 1
                 else:
                     col += 1
