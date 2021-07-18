@@ -309,6 +309,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **59**. [Spiral Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/59-Spiral%20Matrix%20II.md)
 
+**498**. [Diagonal Traverse](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/498-Diagonal%20Traverse.md)
+
 ------- 
 
 **Miscellaneous**
