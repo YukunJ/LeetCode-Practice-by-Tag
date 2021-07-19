@@ -45,29 +45,29 @@ class Solution:
         We construct a min heap of size k
         Initially we put the first node of the k linked lists into the heap
         Then we also take the min from the k, and replace a new element into the heap
-        
+        we do the sorting process in-place, stitching the original nodes
         denote n the sum of number of ListNode in these k linked lists
         Time Complexity : O(nlogk)
-        Space Complexity : O(k) for min-heap
+        Space Complexity : O(n) since we re-allocate space, min heap use O(k)
         """
         import heapq
         heap = list()
-        head = curr = ListNode()
-        for i, node in enumerate(lists):
+        header = curr = ListNode(float('inf')) # init a fake header 
+        for index, node in enumerate(lists):
             if node: # not initially empty
                 # store in form of (value, index)
-                heapq.heappush(heap, (node.val, i))
+                heapq.heappush(heap, (node.val, index))
         
         while heap:
-            value, index = heapq.heappop(heap)
+            _, index = heapq.heappop(heap)
             # create a new node for answer storage
-            curr.next = ListNode(value)
+            curr.next = lists[index]
             curr = curr.next
             # try to get a new node from the "index" linked list
             lists[index] = lists[index].next # point to next
             if lists[index]:
                 heapq.heappush(heap, (lists[index].val, index))
                 
-        return head.next
+        return header.next
                         
 ```
