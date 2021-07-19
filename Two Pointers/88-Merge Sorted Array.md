@@ -1,6 +1,6 @@
 **88. Merge Sorted Array**
 
-```Tag : Two Pointers/Sorting```
+```Tag : two pointers/sorting```
 
 **Description:**
 
