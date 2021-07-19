@@ -149,6 +149,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **2**. [Add Two Numbers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/2-Add%20Two%20Numbers.md)
 
+**21**. [Merge Two Sorted Lists](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/21-Merge%20Two%20Sorted%20Lists.md)
+
 **25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
 
 **142**. [Linked List Cycle II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/142-Linked%20List%20Cycle%20II.md)
