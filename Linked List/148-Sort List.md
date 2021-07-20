@@ -33,7 +33,7 @@ Follow up: Can you sort the linked list in ```O(n*logn)``` time and ```O(1)``` m
 
 **Solution1: Recursion Merge Sort (Space O(logn))**
 
-```
+```python
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
