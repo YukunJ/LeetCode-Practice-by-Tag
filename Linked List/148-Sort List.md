@@ -100,5 +100,71 @@ class Solution:
 **Solution2: Inplace Merge Sort (Space O(1))**
 
 ```python
-
+class Solution:
+    def sortList(self, head: ListNode) -> ListNode:
+        """
+        to achieve the requiredment O(1) space complexity, 
+        we have to sort the linked list in place without recursion stack
+        recall in merge sort, we first break the array into length=1 elements
+        and merge 1 by 1 to a many sorted arrays of length=2, 
+        and then merge pair by pair to get length=4, etc.
+        we could simulate this process
+        
+        denote n := len(linked list)
+        Time Complexity : O(n*logn) merge sort
+        Space Complexity : O(1) 
+        """
+        # firstly, compute the length of this linked list
+        length = 0
+        walker = head
+        while walker:
+            walker = walker.next
+            length += 1
+        
+        # init a fake header for recording keeping
+        header = ListNode(val=float('inf'), next=head)
+        interval = 1 # the starting pair array length
+        while interval < length:
+            prev, curr = header, header.next
+            while curr:
+                # try to get the header of a pair h1 and h2 linked list of length=interval
+                h1, count1 = curr, 0
+                while curr and count1 < interval:
+                    curr = curr.next
+                    count1 += 1
+                if count1 < interval: # no need further search, h2 is None
+                    break
+                
+                h2, count2 = curr, 0
+                while curr and count2 < interval:
+                    curr = curr.next
+                    count2 += 1
+                    
+                # h2 might not be a full interval-length array, might be less
+                length1, length2 = interval, count2
+                
+                # merge two sorted array into one
+                while length1 > 0 and length2 > 0:
+                    if h1.val <= h2.val:
+                        prev.next = h1
+                        h1 = h1.next
+                        length1 -= 1
+                    else:
+                        prev.next = h2
+                        h2 = h2.next
+                        length2 -= 1
+                    prev = prev.next
+                        
+                # get to the end of remaining
+                prev.next = h1 if length1 > 0 else h2
+                while length1 > 0 or length2 > 0:
+                    prev = prev.next
+                    length1 -= 1
+                    length2 -= 1
+                prev.next = curr
+                
+            interval *= 2 # double the pair array size
+            
+        # return the sorted list's head
+        return header.next
 ```
