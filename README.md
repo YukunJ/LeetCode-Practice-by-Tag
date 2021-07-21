@@ -293,6 +293,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Template**. [Trie Template](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/Trie%20Template.md)
 
+**211**. [Add and Search Words Data Structure](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/211-Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
+
 ------- 
 
 **Design**
