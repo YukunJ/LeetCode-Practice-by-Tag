@@ -60,7 +60,7 @@ class Solution:
                     if word in wordSet:
                         nextWordBreaks = dfs(i) # dfs based on next index
                         for nextWordBreak in nextWordBreaks:
-                            ans.append([word]+nextWordBreak.copy()) # concat current word found
+                            ans.append([word]+nextWordBreak) # concat current word found
                 search_history[index] = ans # store the result in memory
                 return ans 
 
