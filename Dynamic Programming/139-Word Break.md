@@ -37,6 +37,7 @@ class Solution:
         we could grow the dp vector as follows:
         given dp[i] is true if s[i:j] is in wordDict, then dp[j] is also True
         
+        denote n := len(s)
         Time Complexity : O(n^2) for nested loop
         Space Complexity : O(n) by dp vector
         """
