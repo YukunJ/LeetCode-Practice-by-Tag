@@ -243,6 +243,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **47**. [Permutations II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/47-Permutations%20II.md)
 
+**51**. [N-Queens](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/51-N-Queens.md)
+
 **78**. [Subsets](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/78-Subsets.md)
 
 **79**. [Word Search](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/79-Word%20Search.md)
