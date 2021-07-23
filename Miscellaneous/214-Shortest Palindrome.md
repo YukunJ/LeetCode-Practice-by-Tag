@@ -1,6 +1,6 @@
 **214. Shortest Palindrome**
 
-```Tag : hashing/string```
+```Tag : hashing/string/KMP```
 
 **Description:**
 
