@@ -333,4 +333,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **14**. [Longest Common Prefix](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/14-Longest%20Common%20Prefix.md)
 
+**214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
+
 ------- 
