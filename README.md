@@ -42,6 +42,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **287**. [Find the Duplicate Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/287-Find%20the%20Duplicate%20Number.md)
 
+**528**. [Random Pick With Weight](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/528-Random%20Pick%20with%20Weight.md)
+
 ------- 
 
 **Dynamic Programming**
