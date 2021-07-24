@@ -40,6 +40,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **240**. [Search a 2D Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/240-Search%20a%202D%20Matrix%20II.md)
 
+**287**. [Find the Duplicate Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/287-Find%20the%20Duplicate%20Number.md)
+
 ------- 
 
 **Dynamic Programming**
