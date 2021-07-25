@@ -137,6 +137,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **56**. [Merge Intervals](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/56-Merge%20Intervals.md)
 
+**75**. [Sort Colors](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/75-Sort%20Colors.md)
+
 **76**. [Minimum Window Substring](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/76-Minimum%20Window%20Substring.md)
 
 **88**. [Merge Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/88-Merge%20Sorted%20Array.md)
