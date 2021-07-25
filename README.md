@@ -100,6 +100,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **456**. [132 Pattern](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/456-132%20Pattern.md)
 
+**647**. [Palindromic Substrings](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/647-Palindromic%20Substrings.md)
+
 **739**. [Daily Temperatures](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/739-Daily%20Temperatures.md)
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
