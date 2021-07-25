@@ -45,9 +45,9 @@ class Solution:
         then if we directly move forward, we miss one
         therefore we need to keep swapping until nums[i] is no longer '2'
 		
-		denote n := len(nums)
-		Time Complexity : O(n)
-		Space Complexity : O(1)
+	denote n := len(nums)
+	Time Complexity : O(n)
+	Space Complexity : O(1)
         """
         n = len(nums)
         i, p0, p2 = 0, 0, n-1
