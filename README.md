@@ -165,6 +165,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
 
+**138**. [Copy List with Random Pointer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/138-Copy%20List%20with%20Random%20Pointer.md)
+
 **142**. [Linked List Cycle II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/142-Linked%20List%20Cycle%20II.md)
 
 **147**. [Insertion Sort List](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/147-Insertion%20Sort%20List.md)
