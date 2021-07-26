@@ -347,4 +347,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
 
+**1007**. [Minimum Domino Rotations For Equal Row](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/1007-Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
+
 ------- 
