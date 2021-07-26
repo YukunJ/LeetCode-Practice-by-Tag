@@ -345,6 +345,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **Miscellaneous**
 
+**6**. [ZigZag Conversion](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/6-ZigZag%20Conversion.md)
+
 **14**. [Longest Common Prefix](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/14-Longest%20Common%20Prefix.md)
 
 **41**. [First Missing Positive](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/41-First%20Missing%20Positive.md)
