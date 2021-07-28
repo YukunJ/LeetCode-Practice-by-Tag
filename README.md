@@ -165,6 +165,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **21**. [Merge Two Sorted Lists](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/21-Merge%20Two%20Sorted%20Lists.md)
 
+**24**. [Swap Nodes in Pairs](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/24-Swap%20Nodes%20in%20Pairs.md)
+
 **25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
 
 **138**. [Copy List with Random Pointer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/138-Copy%20List%20with%20Random%20Pointer.md)
