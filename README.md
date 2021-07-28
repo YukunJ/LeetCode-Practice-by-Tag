@@ -135,6 +135,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **26**. [Remove Duplicates from Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/26-Remove%20Duplicates%20from%20Sorted%20Array.md)
 
+**27**. [Remove Element](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/27-Remove%20Element.md)
+
 **31**. [Next Permutation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/31-Next%20Permutation.md)
 
 **56**. [Merge Intervals](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/56-Merge%20Intervals.md)
