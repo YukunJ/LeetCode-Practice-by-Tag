@@ -38,14 +38,14 @@ class Solution:
     def swapPairs(self, head: ListNode) -> ListNode:
         """
         We want to find a in-place solution without using recursion stack height
-		One interesting approach is :
+	One interesting approach is :
         consider a linked list 1 -> 2 -> 3 -> 4 -> 5-> 6 -> ...
         the swapPairs answer is 2 -> 1 -> 4 -> 3 -> 6 -> 5
         we want to construct 2 jump linked list:
         1) 1 -> 3 -> 5 -> ... odd list
         2) 2 -> 4 -> 6 -> ... even list
         and join (1) and (2) one node by another, (2) moves first
-		But this approach is a bit "think too much, not necessary". We follow an easier approach as follows.
+	But this approach is a bit "think too much, not necessary". We follow an easier approach as follows.
 
         denote n := length of linked list
         Time Complexity : O(n)
