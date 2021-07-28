@@ -133,6 +133,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **18**. [4Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/18-4Sum.md)
 
+**26**. [Remove Duplicates from Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/26-Remove%20Duplicates%20from%20Sorted%20Array.md)
+
 **31**. [Next Permutation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/31-Next%20Permutation.md)
 
 **56**. [Merge Intervals](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/56-Merge%20Intervals.md)
@@ -168,8 +170,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 **24**. [Swap Nodes in Pairs](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/24-Swap%20Nodes%20in%20Pairs.md)
 
 **25**. [Reverse Nodes in k-Group](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/25-Reverse%20Nodes%20in%20k-Group.md)
-
-**26**. [Remove Duplicates from Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/26-Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 **138**. [Copy List with Random Pointer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/138-Copy%20List%20with%20Random%20Pointer.md)
 
