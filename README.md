@@ -24,6 +24,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **4**. [Median of Two Sorted Arrays](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/4-Median%20of%20Two%20Sorted%20Arrays.md)
 
+**29**. [Divide Two Integers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/29-Divide%20Two%20Integers.md)
+
 **33**. [Search in Rotated Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/33-Search%20in%20Rotated%20Sorted%20Array.md)
 
 **34**. [Find First and Last Position of Element in Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/34-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
