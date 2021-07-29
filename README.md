@@ -139,6 +139,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **27**. [Remove Element](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/27-Remove%20Element.md)
 
+**30**. [Substring with Concatenation of All Words](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/30-Substring%20with%20Concatenation%20of%20All%20Words.md)
+
 **31**. [Next Permutation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/31-Next%20Permutation.md)
 
 **56**. [Merge Intervals](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/56-Merge%20Intervals.md)
