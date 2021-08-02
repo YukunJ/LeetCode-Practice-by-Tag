@@ -59,17 +59,19 @@ class Solution:
         """
         def dfs(candidates: List[int], target: int, idx: int, path: List[int], res: List[List[int]]):
             """
-            idx is the index you start to look. You don't look backward,
+            idx is the index you start to look. You don't look backward(may re-consider current idx),
             because any combination involves previous item should already be explored
             so it would be redunant
             """
             if target <= 0:
                 # leaf reached
                 if target == 0: # a combination found
-                    res.append(path)
+                    res.append(path[:])
                 return
             for index in range(idx, len(candidates)):
-                dfs(candidates, target-candidates[index], index, path+[candidates[index]], res)
+                path.append(candidates[index])
+                dfs(candidates, target-candidates[index], index, path, res)
+                path.pop()
                 
         # main driver
         if len(candidates) == 0:
