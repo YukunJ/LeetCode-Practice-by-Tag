@@ -373,6 +373,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **28**. [Implement strStr()](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/28-Implement%20strStr().md)
 
+**38**. [Count and Say](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/38-Count%20and%20Say.md)
+
 **41**. [First Missing Positive](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/41-First%20Missing%20Positive.md)
 
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
