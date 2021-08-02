@@ -269,6 +269,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **39**. [Combination Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/39-Combination%20Sum.md)
 
+**40**. [Combination Sum II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/40-Combination%20Sum%20II.md)
+
 **46**. [Permutations](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/46-Permutations.md)
 
 **47**. [Permutations II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/47-Permutations%20II.md)
