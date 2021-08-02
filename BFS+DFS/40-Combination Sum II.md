@@ -51,7 +51,7 @@ class Solution:
         denote n := len(candidates)
         Time Complexity : O(n * 2^n) in worst case, 
                         there are 2^n possibilities and each takes O(n) time to assess
-        Space Complexity : O(n) recursion stack
+        Space Complexity : O(n) recursion stack and the temporary 'path' variable storage
         """
         def dfs(candidates: List[int], n: int, idx: int, path: List[int], remainder: int) -> None:
             if remainder <= 0:
