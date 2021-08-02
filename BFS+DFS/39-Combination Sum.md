@@ -51,9 +51,9 @@ class Solution:
         The tree reaches leaf node when weight <= 0
         
         Time Complexity: O(S) where S is the length of all possible solutions. 
-                        Another very loose upper bound is O(target * 2^{target}). 
-                        Consider each level only reduce by 1, need to go "target" number of levels down to bottom
-                        There are 2^{target} leaves in the bottom, each with height "target"
+                        Another very loose upper bound is O(n * 2^n) where n := len(candidates). 
+                        Consider whether or not to pick a position yielding 2^n possibility
+                        and we need O(n) time to assess if it's valid or not
         Space Complexity: O(target) the stack for recursion is at most target high, 
                           since each recursion reduce the target at least by 1
         """
