@@ -53,7 +53,7 @@ class Solution:
 	
 	denote n := len(nums1), m := len(nums2)
 	Time Complexity : O(log(n+m))
-	Space Complexity : O(log(n+m))
+	Space Complexity : O(1)
         """
         def getKthElement(k: int) -> int:
             """Helper function: get the k-th smallest element from two sorted list"""
