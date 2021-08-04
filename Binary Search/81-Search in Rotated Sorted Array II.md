@@ -55,7 +55,6 @@ class Solution:
                 if nums[l] <= target < nums[mid]:
                     r = mid - 1
                 else:
-
                     l = mid + 1
             else: # second phase : under the cliff
                 if nums[mid] < target <= nums[r]:
