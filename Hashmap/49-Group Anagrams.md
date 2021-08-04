@@ -38,7 +38,7 @@ class Solution:
         denote n := len('strs'), s := max length of string in the list 'strs', 
                t := size of frequency table, here t=26 lowercasr letters
         Time Complexity : O(n*(s+t))
-        Space Complexity : O(n*(s+t))
+        Space Complexity : O(n*t) each str generate a frequency tuple
         """
         from collections import defaultdict
         def count_freq(word: str) -> Tuple:
