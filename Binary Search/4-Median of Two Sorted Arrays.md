@@ -50,6 +50,10 @@ class Solution:
         when pivot1 <= pivot2, we know that
         pivot1 is at most larger than k//2-1 + k//2-1 elements, so itself is at most the k-1 smallest elements
         so we can abandon A[0:k//2-1] part and look for (k-(k//2-1)) -th smallest element in the remaining two arrays
+	
+	denote n := len(nums1), m := len(nums2)
+	Time Complexity : O(log(n+m))
+	Space Complexity : O(log(n+m))
         """
         def getKthElement(k: int) -> int:
             """Helper function: get the k-th smallest element from two sorted list"""
