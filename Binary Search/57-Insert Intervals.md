@@ -81,7 +81,6 @@ class Solution:
         Time Complexity : O(n) merge takes one pass O(n)
         Space Complexity : O(1)
         """
-        # sorting in ascending starting time
         n = len(intervals)
         ptr = 0
         res = []
