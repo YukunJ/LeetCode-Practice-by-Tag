@@ -1,6 +1,6 @@
 **84. Largest Rectangle in Histogram**
 
-```Tag: stack/monotone stack```
+```Tag: dynamic programming/stack/monotone stack```
 
 **Description:**
 
