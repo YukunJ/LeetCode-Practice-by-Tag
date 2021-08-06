@@ -79,7 +79,7 @@ class Solution:
         we store the index of "all finished matching" index
         along with all "(" index
         when encounter a new ")", we first pop out a '(' from the stack
-        if there is nothing in the stack, then it means there is matching '(', 
+        if there is nothing in the stack, then it means there is no matching '(', 
         and all the preceding substring is not going to be a valid partheses
         therefore we store the index of this ')' as a header in the stack
         when initialization, we store a -1 in the stack as header
