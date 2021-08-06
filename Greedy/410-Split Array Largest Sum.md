@@ -47,7 +47,7 @@ class Solution:
         and we will utilize a pre-sum array to avoid repetitve computation
 
         Time Complexity : O(n^2*m) there are O(n*m) state, each state takes O(n)
-        Space Complexity: ; O(n*m)
+        Space Complexity: : O(n*m)
         """
         # boundary case checking
         if not nums: 
