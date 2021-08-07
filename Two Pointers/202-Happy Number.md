@@ -39,7 +39,7 @@ class Solution:
         """
         This is an implicit linked list question, we are asked to find a cycle if any
         Every ListNode's val the previous Node's val's sum of square of digits
-        Therefore, we recall that we could use two pointers - fase & slow to solve
+        Therefore, we recall that we could use two pointers - fast & slow to solve
         
         Time Complexity : O(logn)
         Space Complexity : O(1)
