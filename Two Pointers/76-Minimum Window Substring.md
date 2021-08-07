@@ -51,7 +51,7 @@ A **substring** is a contiguous sequence of characters within the string.
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
         """
-        This is a sliding window problem, we maintain a parif of left & right pointers
+        This is a sliding window problem, we maintain a pair of left & right pointers
         while fix left, we try expand right pointer to contain the whole t string
         then we try to contract the window by moving left pointer to right
         During the process, we need hashtable to record the occurence of characters in t
