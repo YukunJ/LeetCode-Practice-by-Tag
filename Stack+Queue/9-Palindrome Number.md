@@ -87,6 +87,6 @@ class Solution:
             revertHalf = 10 * revertHalf + x % 10
             x //= 10
             
-        # depending on even number of digits or oddnumber of digits
+        # depending on even number of digits or odd number of digits
         return revertHalf == x or revertHalf // 10 == x
 ```
