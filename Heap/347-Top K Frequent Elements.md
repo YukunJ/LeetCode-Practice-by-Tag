@@ -129,8 +129,7 @@ class Solution:
         hashtable = defaultdict(int)
         for num in nums:
             hashtable[num] += 1
-        
-        # maintain a size=k min heap
+
         elements = [Freq(num, freq) for num, freq in hashtable.items()]
 
         # call quicksort and retrieve first k elements
