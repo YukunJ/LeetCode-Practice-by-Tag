@@ -48,7 +48,7 @@ class Solution:
         we do the sorting process in-place, stitching the original nodes
         denote n the sum of number of ListNode in these k linked lists
         Time Complexity : O(nlogk)
-        Space Complexity : O(n) since we re-allocate space, min heap use O(k)
+        Space Complexity : O(k) min heap use O(k)
         """
         import heapq
         heap = list()
