@@ -32,7 +32,7 @@ class Solution:
         """
         A DFS problem.
         denote m, n := board.shape
-        When we want to fill in a slot, there are 2 conditions to be specified:
+        When we want to fill in a slot, there are 3 conditions to be specified:
         1) This row doesn't contain this number yet
         2) This col doesn't contain this number yet
         3) This 3x3 box doesn't contain this number yet
