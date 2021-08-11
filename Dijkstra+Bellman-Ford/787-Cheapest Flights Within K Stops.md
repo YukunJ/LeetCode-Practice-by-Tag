@@ -43,7 +43,7 @@ class Solution:
         denote m := len(flights) = number of edges in the graph
         Time Complexity : O(k * m)
         Space Complexity : O(n)
-        ""
+        """
         dist = [float('inf')] * n
         dist[src] = 0 # init the self-distance be zero
         
