@@ -1,4 +1,4 @@
-**126. Word Ladde II**
+**126. Word Ladder II**
 
 ```Tag: BFS```
 
@@ -32,7 +32,7 @@ Given two words, ```beginWord``` and ```endWord```, and a dictionary ```wordList
 class Solution:
     def findLadders(self, beginWord: str, endWord: str, wordList: List[str]) -> List[List[str]]:
         """
-        Exactly like question <127. Word Ladder II>
+        Exactly like question <127. Word Ladder>
         This is a BFS problem, we need to construct graph (undirected) to 
             find the shortest transformation between beginWord and endWord
         We first enumerate all possible '1-character' transform 
