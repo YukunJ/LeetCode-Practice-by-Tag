@@ -211,6 +211,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **735**. [Asteroid Collision](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/735-Asteroid%20Collision.md)
 
+**1249**. [Minimum Remove to Make Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
+
 ------- 
 
 **Heap**
