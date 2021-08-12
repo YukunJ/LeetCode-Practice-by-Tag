@@ -20,6 +20,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **560**. [Subarray Sum Equals K](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/560-Subarray%20Sum%20Equals%20K.md)
 
+**953**. [Verifying an Alien Dictionary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/953-Verifying%20an%20Alien%20Dictionary.md)
+
 ------- 
 
 **Binary Search**
