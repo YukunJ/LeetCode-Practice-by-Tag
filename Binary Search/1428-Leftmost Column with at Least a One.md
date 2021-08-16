@@ -22,28 +22,28 @@ For custom testing purposes, the input will be the entire binary matrix ```mat``
 
 **Example1:**
 
-[!avatar](Fig/1428-E1.jpg)
+![avatar](Fig/1428-E1.jpg)
 
 		Input: mat = [[0,0],[1,1]]
 		Output: 0
 
 **Example2:**
 
-[!avatar](Fig/1428-E2.jpg)
+![avatar](Fig/1428-E2.jpg)
 
 		Input: mat = [[0,0],[0,1]]
 		Output: 1
 
 **Example3:**
 
-[!avatar](Fig/1428-E3.jpg)
+![avatar](Fig/1428-E3.jpg)
 
 		Input: mat = [[0,0],[0,0]]
 		Output: -1
 
 **Example4:**
 
-[!avatar](Fig/1428-E4.jpg)
+![avatar](Fig/1428-E4.jpg)
 
 		Input: mat = [[0,0,0,1],[0,0,1,1],[0,1,1,1]]
 		Output: 1
