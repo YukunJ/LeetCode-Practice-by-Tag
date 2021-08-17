@@ -307,6 +307,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **282**. [Expression Add Operators](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/282-Expression%20Add%20Operators.md)
 
+**301**. [Remove Invalid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/301-Remove%20Invalid%20Parentheses.md)
+
 ------- 
 
 **Topological Sort**
