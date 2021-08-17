@@ -211,6 +211,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **394**. [Decode String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/394-Decode%20String.md)
 
+**636**. [Exclusive Time of Functions](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/636-Exclusive%20Time%20of%20Functions.md)
+
 **726**. [Number of Atoms](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/726-Number%20of%20Atoms.md)
 
 **735**. [Asteroid Collision](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/735-Asteroid%20Collision.md)
