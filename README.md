@@ -217,6 +217,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1249**. [Minimum Remove to Make Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
 
+**1762**. [Buildings With an Ocean View](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/1762-Buildings%20With%20an%20Ocean%20View.md)
+
 ------- 
 
 **Heap**
