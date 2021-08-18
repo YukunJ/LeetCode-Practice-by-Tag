@@ -15,9 +15,13 @@ We want to do the transformation **in place**. After the transformation, the lef
 ![avatar](Fig/426-E1.png)
 
 		Input: root = [4,2,5,1,3]
+		
 ![avatar](Fig/426-E1-1.png)
+
 		Output: [1,2,3,4,5]
+		
 ![avatar](Fig/426-E1-2.png)
+
 		Explanation: The figure below shows the transformed BST. The solid line indicates the successor relationship, while the dashed line means the predecessor relationship.
 
 **Example2:**
