@@ -15,7 +15,7 @@ Return the **vertical order traversal** of the binary tree.
 
 **Example1:**
 
-![avatar](Fig/987-E1.jpg]
+![avatar](Fig/987-E1.jpg)
 
 		Input: root = [3,9,20,null,null,15,7]
 		Output: [[9],[3,15],[20],[7]]
@@ -27,7 +27,7 @@ Return the **vertical order traversal** of the binary tree.
 
 **Example2:**
 
-![avatar](Fig/987-E2.jpg]
+![avatar](Fig/987-E2.jpg)
 
 		Input: root = [1,2,3,4,5,6,7]
 		Output: [[4],[2],[1,5,6],[3],[7]]
@@ -42,7 +42,7 @@ Return the **vertical order traversal** of the binary tree.
 
 **Example3:**
 
-![avatar](Fig/987-E3.jpg]
+![avatar](Fig/987-E3.jpg)
 
 		Input: root = [1,2,3,4,6,5,7]
 		Output: [[4],[2],[1,5,6],[3],[7]]
