@@ -9,7 +9,7 @@ Given the ```root``` node of a binary search tree and two integers ```low``` and
 
 **Example1:**
 
-![avatar](Fig/9389-E1.jpg)
+![avatar](Fig/938-E1.jpg)
 
 		Input: root = [10,5,15,3,7,null,18], low = 7, high = 15
 		Output: 32
