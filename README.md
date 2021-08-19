@@ -275,6 +275,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **863**. [All Nodes Distance K in Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/863-All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)
 
+**987**. [Vertical Order Traversal of Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/987-Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
+
 **1650**. [Lowest Common Ancestor of a Binary Tree III](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/1650-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III.md)
 
 ------- 
