@@ -173,6 +173,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **567**. [Permutation in String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/567-Permutation%20in%20String.md)
 
+**977**. [Squares of a Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/977-Squares%20of%20a%20Sorted%20Array.md)
+
 **986**. [Interval List Intersections](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/986-Interval%20List%20Intersections.md)
 
 ------- 
