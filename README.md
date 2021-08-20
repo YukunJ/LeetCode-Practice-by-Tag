@@ -429,6 +429,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **41**. [First Missing Positive](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/41-First%20Missing%20Positive.md)
 
+**65**. [Valid Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/65.%20Valid%20Number.md)
+
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
 
 **1007**. [Minimum Domino Rotations For Equal Row](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/1007-Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
