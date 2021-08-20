@@ -27,8 +27,8 @@ class Solution:
         until carrier is 0 and two string has all been enumerated
         
         denote n := len(a), m := len(b)
-        Time Complexity : O(n+m)
-        Space Complexity : O(n+m)
+        Time Complexity : O(max(n, m))
+        Space Complexity : O(max(n, m))
         """
         carrier = 0
         res = []
