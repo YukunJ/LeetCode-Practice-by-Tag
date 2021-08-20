@@ -405,6 +405,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **498**. [Diagonal Traverse](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/498-Diagonal%20Traverse.md)
 
+**989**. [Add to Array-Form of Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/989-Add%20to%20Array-Form%20of%20Integer.md)
+
 ------- 
 
 **Miscellaneous**
