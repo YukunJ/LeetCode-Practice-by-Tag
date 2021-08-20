@@ -399,6 +399,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **59**. [Spiral Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/59-Spiral%20Matrix%20II.md)
 
+**66**. [Plus One](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/66-Plus%20One.md)
+
 **67**. [Add Binary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/67-Add%20Binary.md)
 
 **371**. [Sum of Two Integers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/371-Sum%20of%20Two%20Integers.md)
