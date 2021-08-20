@@ -40,7 +40,7 @@ class Solution:
         Space Complexity : O(n) in worst case allocate new space storage
         """
         ptr = len(digits) - 1
-        carrier = 1
+        carrier = 1 # init the 'plus one'
         while ptr >= 0:
             digits[ptr] += carrier
             carrier, digits[ptr] = divmod(digits[ptr], 10)
