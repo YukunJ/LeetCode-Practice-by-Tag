@@ -72,11 +72,10 @@ class Solution:
                 # tail find, case (2)
                 if insertVal >= prev.val or insertVal <= curr.val:
                     insert = True
-            
+		    
             if insert:
                 prev.next = Node(val=insertVal, next=curr)
                 return head
-            
             prev, curr = curr, curr.next
             if prev == head:
                 # whole loop finish
