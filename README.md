@@ -133,6 +133,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **621**. [Task Scheduler](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/621-Task%20Scheduler.md)
 
+**670**. [Maximum Swap](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/670.%20Maximum%20Swap.md)
+
 ------- 
 
 **Two Pointers**
