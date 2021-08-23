@@ -349,6 +349,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **210**. [Course Schedule II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/210-Course%20Schedule%20II.md)
 
+**269**. [Alien Dictionary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Topological%20Sort/269-Alien%20Dictionary.md)
+
 ------- 
 
 **Dijkstra+Bellman-Ford**
