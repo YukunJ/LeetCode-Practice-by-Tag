@@ -45,52 +45,37 @@ class Solution:
         Time Complexity : O(S)
         Space Complexity : O(U+min(U^2, N))
         """
-        from collections import defaultdict, deque
-        offset = ord('a')
-        node_set = set() # all the appearing node
-        indegree_count = [0] * 26
-        outedge = defaultdict(set)
-        for word in words:
-            for char in word:
-                node_set.add(char)
-        for i in range(len(words)-1):
-            signal = True
-            for j in range(min(len(words[i]), len(words[i+1]))):
-                if words[i][j] == words[i+1][j]:
-                    continue
-                else:
-                    # a new dependency edge
-                    if words[i+1][j] not in outedge[words[i][j]]:
-                        indegree_count[ord(words[i+1][j])-offset] += 1
-                        outedge[words[i][j]].add(words[i+1][j])
-                    signal=False
+        from collections import defaultdict, deque, Counter
+        # first create in degree counting, adjacency list and node recording
+        adj_lst = defaultdict(set)
+        in_degree = Counter({c : 0 for word in words for c in word})
+        
+        # record all dependency edges and in degree counting
+        for first_word, second_word in zip(words, words[1:]):
+            early_stopping = True
+            for c1, c2 in zip(first_word, second_word):
+                if c1 != c2:
+                    early_stopping = False
+                    if c2 not in adj_lst[c1]:
+                        adj_lst[c1].add(c2)
+                        in_degree[c2] += 1
                     break
-            if signal and len(words[i+1]) < len(words[i]):
-                # early stopping
-                # if second one is a prefix substring of first one
+            if early_stopping and len(second_word) < len(first_word):
+                # check if second word is a prefix of first one
                 return ""
-             
+        
+        # topological sorting
         topo = []
-        ready = deque()
-        visited = set()
-        # search for initially ready node
-        for node in node_set:
-            if indegree_count[ord(node)-offset] == 0:
-                ready.append(node)
-        while ready:
-            ready_node = ready.popleft()
-            topo.append(ready_node)
-            visited.add(ready_node)
-            # decrease in degree for connected node
-            for neighbor in outedge[ready_node]:
-                indegree_count[ord(neighbor)-offset] -= 1
-                if indegree_count[ord(neighbor)-offset] == 0:
-                    # this neighbor node is ready
-                    ready.append(neighbor) 
-                    
-        if len(topo) == len(node_set):
-            # a successful topological sorting
-            return "".join(topo)
-        # a cycle dependency found, failure
-        return ""
+        queue = deque([c for c in in_degree if in_degree[c] == 0])
+        while queue:
+            c = queue.popleft()
+            topo.append(c)
+            for neighbor in adj_lst[c]:
+                in_degree[neighbor] -= 1
+                if in_degree[neighbor] == 0:
+                    queue.append(neighbor)
+        
+        if len(topo) < len(in_degree):
+            return ""
+        return "".join(topo)
 ```
