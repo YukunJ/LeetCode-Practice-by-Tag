@@ -25,7 +25,7 @@ Below is a high-level example of how ```read4``` works:
 
 ![avatar](Fig/158-instruction.png)
 
-		File file("abcde"); // File is "abcde", 		initially file pointer (fp) points to 'a'
+		File file("abcde"); // File is "abcde", initially file pointer (fp) points to 'a'
 		char[] buf4 = new char[4]; // Create buffer with enough space to store characters
 		read4(buf4); // read4 returns 4. Now buf4 = "abcd", fp points to 'e'
 		read4(buf4); // read4 returns 1. Now buf4 = "e", fp points to end of file
@@ -72,7 +72,7 @@ Please remember to RESET your class variables declared in Solution, as static/cl
 
 		Input: file = "abc", queries = [4,1]
 		Output: [3,0]
-		Explanation: The test case represents the 		following scenario:
+		Explanation: The test case represents the following scenario:
 		File file("abc");
 		Solution sol;
 		sol.read(buf, 4); // After calling your read method, buf should contain "abc". We read a total of 3 characters from the file, so return 3.
