@@ -385,6 +385,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **155**. [Min Stack](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/155-Min%20Stack.md)
 
+**158**. [Read N Characters Given Read4 II - Call multiple times](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/158-Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.md)
+
 **173**. [Binary Search Tree Iterator](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/173-Binary%20Search%20Tree%20Iterator.md)
 
 **341**. [Flatten Nested Iterator](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/341-Flatten%20Nested%20List%20Iterator.md)
