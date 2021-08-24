@@ -54,7 +54,7 @@ class Solution:
 
 **Solution2: Reservoir Sampling**
 
-```
+```python
 class Solution:
     """
     denote n := len(nums)
