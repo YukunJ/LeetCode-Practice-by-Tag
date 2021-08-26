@@ -58,7 +58,7 @@ class Solution:
 
 -----------
 
-**Solution2: chronological ordering**
+**Solution2: Chronological Ordering**
 
 ```python
 class Solution:
