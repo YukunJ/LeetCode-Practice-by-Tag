@@ -18,7 +18,7 @@ Given an array of meeting time ```intervals``` where ```intervals[i] = [starti, 
 
 -----------
 
-Solution1: Heap
+**Solution1: Heap**
 
 ```python
 class Solution:
@@ -58,7 +58,7 @@ class Solution:
 
 -----------
 
-Solution2: chronological ordering
+**Solution2: chronological ordering**
 
 ```python
 class Solution:
