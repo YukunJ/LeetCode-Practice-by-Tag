@@ -399,6 +399,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **449**. [Serialize and Deserialize BST](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/449-Serialize%20and%20Deserialize%20BST.md)
 
+**588**. [Design In-Memory File System](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/588-Design%20In-Memory%20File%20System.md)
+
 **981**. [Time Based Key-Value Store](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/981-Time%20Based%20Key-Value%20Store.md)
 
 **1570**. [Dot Product of Two Sparse Vectors](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/1570-Dot%20Product%20of%20Two%20Sparse%20Vectors.md)
