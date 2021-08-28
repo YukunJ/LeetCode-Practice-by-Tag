@@ -385,6 +385,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **211**. [Add and Search Words Data Structure](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/211-Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 
+**642**. [Design Search Autocomplete System](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Trie/642-Design%20Search%20Autocomplete%20System.md)
+
 ------- 
 
 **Design**
