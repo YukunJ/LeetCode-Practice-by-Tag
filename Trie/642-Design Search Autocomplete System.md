@@ -90,7 +90,7 @@ class AutocompleteSystem:
     Time Complexity :
     __init__(): O(n) where n is the sum of character numbers in sentences
     input(): we do a dfs search on every node below the current Trie node,
-            during that process, we operate on a heap, whose operation time is O(logk) = O(log3) = O(1)
+            during that process, we operate on a heap, whose operation time is O(log{heap_size}) = O(log3) = O(1)
             denote k is depth remaining below the current node, p the size of alphabet,
             it would be worst case O(p^k)
     Space Complexity :
