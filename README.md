@@ -177,6 +177,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **438**. [Find All Anagrams in a String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/438-Find%20All%20Anagrams%20in%20a%20String.md)
 
+**443**. [String Compression](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/443-String%20Compression.md)
+
 **567**. [Permutation in String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/567-Permutation%20in%20String.md)
 
 **977**. [Squares of a Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/977-Squares%20of%20a%20Sorted%20Array.md)
