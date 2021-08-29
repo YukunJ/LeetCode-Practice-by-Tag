@@ -467,4 +467,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1007**. [Minimum Domino Rotations For Equal Row](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/1007-Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)
 
+**1094**. [Car Pooling](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/1094-Car%20Pooling.md)
+
 ------- 
