@@ -72,6 +72,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **45**. [Jump Game II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/45-Jump%20Game%20II.md)
 
+**53**. [Maximum Subarray](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/53-Maximum%20Subarray.md)
+
 **62**. [Unique Paths](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/62-Unique%20Paths.md)
 
 **63**. [Unique Paths II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/63-Unique%20Paths%20II.md)
