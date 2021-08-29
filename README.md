@@ -24,6 +24,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **953**. [Verifying an Alien Dictionary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/953-Verifying%20an%20Alien%20Dictionary.md)
 
+**1010**. [Pairs of Songs With Total Durations Divisible by 60](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/1010-Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)
+
 ------- 
 
 **Binary Search**
