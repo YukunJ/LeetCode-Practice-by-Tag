@@ -127,6 +127,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **23**. [Longest Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/32-Longest%20Valid%20Parentheses.md)
 
+**55**. [Jump Game](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/55-Jump%20Game.md)
+
 **134**. [Gas Station](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/134-Gas%20Station.md)
 
 **300**. [Longest Increasing Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/300-Longest%20Increasing%20Subsequence.md)
