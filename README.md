@@ -471,6 +471,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **65**. [Valid Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/65.%20Valid%20Number.md)
 
+**169**. [Majority Element](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/169-Majority%20Element.md)
+
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
 
 **252**. [Meeting Rooms](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/252-Meeting%20Rooms.md)
