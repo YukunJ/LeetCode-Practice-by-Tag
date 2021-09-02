@@ -82,6 +82,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **70**. [Climbing Stairs](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/70-Climbing%20Stairs.md)
 
+**72**. [Edit Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/72-Edit%20Distance.md)
+
 **84**. [Largest Rectangle in Histogram](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/84-Largest%20Rectangle%20in%20Histogram.md)
 
 **85**. [Maximal Rectangle](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/85-Maximal%20Rectangle.md)
