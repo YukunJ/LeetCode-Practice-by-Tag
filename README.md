@@ -173,6 +173,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **88**. [Merge Sorted Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/88-Merge%20Sorted%20Array.md)
 
+**161**. [Edit Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/161-One%20Edit%20Distance.md)
+
 **202**. [Happy Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/202-Happy%20Number.md)
 
 **209**. [Minimum Size Subarray Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/209-Minimum%20Size%20Subarray%20Sum.md)
