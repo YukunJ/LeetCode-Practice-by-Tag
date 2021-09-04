@@ -175,6 +175,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **161**. [Edit Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/161-One%20Edit%20Distance.md)
 
+**189**. [Rotate Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/189-Rotate%20Array.md)
+
 **202**. [Happy Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/202-Happy%20Number.md)
 
 **209**. [Minimum Size Subarray Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/209-Minimum%20Size%20Subarray%20Sum.md)
