@@ -281,6 +281,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **99**. [Recover Binary Search Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/99-Recover%20Binary%20Search%20Tree.md)
 
+**101**. [Symmetric Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/101-Symmetric%20Tree.md)
+
 **105**. [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/105-Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
 
 **109**. [Convert Sorted List to Binary Search Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/109-Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
