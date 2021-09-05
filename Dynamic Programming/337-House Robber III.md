@@ -118,7 +118,7 @@ class Solution:
             nonlocal memory
             curr_max = 0 # default value for None node
             if node:
-                if node in  memory[parentRobbed]:
+                if node in memory[parentRobbed]:
                     # memorization based on whether the parent node is robbed
                     return memory[parentRobbed][node]
                 
