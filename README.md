@@ -303,6 +303,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **124**. [Binary Tree Maximum Path Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/124-Binary%20Tree%20Maximum%20Path%20Sum.md)
 
+**230**. [Kth Smallest Element in a BST](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/230-Kth%20Smallest%20Element%20in%20a%20BST.md)
+
 **236**. [Lowest Common Ancestor of a Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/236-Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 
 **297**. [Serialize and Deserialize Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Tree/297-Serialize%20and%20Deserialize%20Binary%20Tree.md)
