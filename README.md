@@ -139,6 +139,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **134**. [Gas Station](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/134-Gas%20Station.md)
 
+**279**. [Perfect Squares](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/279-Perfect%20Squares.md)
+
 **300**. [Longest Increasing Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/300-Longest%20Increasing%20Subsequence.md)
 
 **334**. [Increasing Triplet Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/334-Increasing%20Triplet%20Subsequence.md)
