@@ -84,7 +84,7 @@ class Solution:
         from collections import deque
         if not root: # boundary case
             return 0
-        queue =deque([(root, 1)])
+        queue = deque([(root, 1)])
         max_depth = 0
         while queue:
             # basically adopt a BFS search approach
