@@ -62,8 +62,7 @@ class Solution:
         We could also adopt a greedy approach
         we use to build the soluton to test starting from 1, 2, ..., big number
         The first testing returning True is going to be the solution
-        
-        
+       
         Time Complexity : O(n^1.5) in the worst case, we essentially fill up the memory hashtable 
                           just like the 2-D dp vector as in solution1
                           However, from the runtime we could tell this solution is much faster
