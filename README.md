@@ -120,6 +120,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **403**. [Frog Jump](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/403-Frog%20Jump.md)
 
+**416**. [Partition Equal Subset Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/416-Partition%20Equal%20Subset%20Sum.md)
+
 **456**. [132 Pattern](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/456-132%20Pattern.md)
 
 **647**. [Palindromic Substrings](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/647-Palindromic%20Substrings.md)
