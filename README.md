@@ -411,6 +411,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **721**. [Accounts Merge](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/721-Accounts%20Merge.md)
 
+**839**. [Similar String Groups](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Disjoint%20Set%20Union/839-Similar%20String%20Groups.md)
+
 ------- 
 
 **Trie**
