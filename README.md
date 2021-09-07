@@ -447,6 +447,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **981**. [Time Based Key-Value Store](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/981-Time%20Based%20Key-Value%20Store.md)
 
+**1352**. [Product of the Last K Numbers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/1352-Product%20of%20the%20Last%20K%20Numbers.md)
+
 **1570**. [Dot Product of Two Sparse Vectors](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/1570-Dot%20Product%20of%20Two%20Sparse%20Vectors.md)
 
 ------- 
