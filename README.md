@@ -147,6 +147,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **334**. [Increasing Triplet Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/334-Increasing%20Triplet%20Subsequence.md)
 
+**354**. [Russian Doll Envelopes](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/354-Russian%20Doll%20Envelopes.md)
+
 **410**. [Split Array Largest Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/410-Split%20Array%20Largest%20Sum.md)
 
 **621**. [Task Scheduler](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/621-Task%20Scheduler.md)
