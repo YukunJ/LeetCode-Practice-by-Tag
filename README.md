@@ -130,6 +130,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
 
+**1477**. [Find Two Non-overlapping Sub-array Each With Target Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1477-Find%20Two%20Non-overlapping%20Sub-arrays%20Each%20With%20Target%20Sum.md)
+
 ------- 
 **Greedy**
 
