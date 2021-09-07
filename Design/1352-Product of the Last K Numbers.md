@@ -60,7 +60,7 @@ class ProductOfNumbers:
     Therefore, whenever we meet a 0, we need to reset the prefix array to 1 in next position
     
     denote n := number of add() is called
-    Time Complexity : __init__() is O(n), add() is O(1), getProduct is O(1)
+    Time Complexity : __init__() is O(1), add() is O(1), getProduct is O(1)
     Space Complexity : O(n) for prefix storage
     """
     def __init__(self):
