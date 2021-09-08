@@ -389,6 +389,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1263**. [Minimum Moves to Move a Box to Their Target Location](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.md)
 
+**1293**. [Shortest Path in a Grid with Obstacles Eliimination](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/1293-Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.md)
+
 **1306**. [Jump Game III](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/1306-Jump%20Game%20III.md)
 
 ------- 
