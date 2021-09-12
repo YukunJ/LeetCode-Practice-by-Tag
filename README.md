@@ -157,6 +157,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **670**. [Maximum Swap](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/670.%20Maximum%20Swap.md)
 
+**1733**. [Minimum Number of People to Teach](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Greedy/1733-Minimum%20Number%20of%20People%20to%20Teach.md)
+
 ------- 
 
 **Two Pointers**
