@@ -191,6 +191,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **161**. [Edit Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/161-One%20Edit%20Distance.md)
 
+**163**. [Missing Ranges](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/163-Missing%20Ranges.md)
+
 **165**. [Compare Version Numbers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/165-Compare%20Version%20Numbers.md)
 
 **189**. [Rotate Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/189-Rotate%20Array.md)
