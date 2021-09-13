@@ -115,7 +115,7 @@ class Solution:
         
         denote n := len(words), k := the longest word length in the array
         Time Complexity : O(n * k^2) 
-        Space Complexity: O(k^2 + n * k)
+        Space Complexity: O((k+n)^2) In worst case, the Trie contain n*k nodes in different places, each has a O(n) size suffix field.
         """             
         # create Trie Tree and add all word's reverse into it
         root = TrieNode()
