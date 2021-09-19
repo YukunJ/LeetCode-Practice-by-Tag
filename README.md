@@ -393,6 +393,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **490**. [The Maze](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/490-The%20Maze.md)
 
+**864**. [Shortest Path to Get All Keys](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/864-Shortest%20Path%20to%20Get%20All%20Keys.md)
+
 **886**. [Possible Bipartition](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/886-Possible%20Bipartition.md)
 
 **1263**. [Minimum Moves to Move a Box to Their Target Location](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/1263-Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.md)
