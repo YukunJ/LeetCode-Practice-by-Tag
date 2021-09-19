@@ -6,11 +6,11 @@
 
 You are given an ```m x n``` grid ```grid``` where:
 
-+ '.' is an empty cell.
++ ```'.'``` is an empty cell.
 
-+ '#' is a wall.
++ ```'#'``` is a wall.
 
-+ '@' is the starting point.
++ ```'@'``` is the starting point.
 
 + Lowercase letters represent keys.
 
