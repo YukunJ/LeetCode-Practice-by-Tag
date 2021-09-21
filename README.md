@@ -525,6 +525,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **65**. [Valid Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/65.%20Valid%20Number.md)
 
+**68**. [Text Justification](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/68-Text%20Justification.md)
+
 **169**. [Majority Element](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/169-Majority%20Element.md)
 
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
