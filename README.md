@@ -18,6 +18,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **166**. [Fraction to Recurring Decimal](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/166-Fraction%20to%20Recurring%20Decimal.md)
 
+**349**. [Intersection of Two Arrays](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/349-Intersection%20of%20Two%20Arrays.md)
+
 **523**. [Continuous Subarray Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/523-Continuous%20Subarray%20Sum.md)
 
 **560**. [Subarray Sum Equals K](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/560-Subarray%20Sum%20Equals%20K.md)
