@@ -209,6 +209,10 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **238**. [Product of Array Except Self ](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/238-Product%20of%20Array%20Except%20Self.md)
 
+**243**. [Shortest Word Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/243-Shortest%20Word%20Distance.md)
+
+**244**. [Shortest Word Distance II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/244-Shortest%20Word%20Distance%20II.md)
+
 **283**. [Move Zeros](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/283-Move%20Zeros.md)
 
 **415**. [Add Strings](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Two%20Pointers/415-Add%20Strings.md)
