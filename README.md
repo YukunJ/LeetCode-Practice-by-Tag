@@ -533,8 +533,6 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **214**. [Shortest Palindrome](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/214-Shortest%20Palindrome.md)
 
-**243**. [Shortest Word Distance](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/243-Shortest%20Word%20Distance.md)
-
 **252**. [Meeting Rooms](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/252-Meeting%20Rooms.md)
 
 **398**. [Random Pick Index](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Miscellaneous/398-Random%20Pick%20Index.md)
