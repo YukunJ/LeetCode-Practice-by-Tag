@@ -116,6 +116,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **221**. [Maximal Square](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/221-Maximal%20Square.md)
 
+**303**. [Range Sum Query - Immutable](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/303-Range%20Sum%20Query%20-%20Immutable.md)
+
 **322**. [Coin Change](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/322-Coin%20Change.md)
 
 **337**. [House Robber III](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/337-House%20Robber%20III.md)
