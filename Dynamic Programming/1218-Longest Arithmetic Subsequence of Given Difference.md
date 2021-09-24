@@ -28,7 +28,7 @@ A **subsequence** is a sequence that can be derived from ```arr``` by deleting s
 
 -----------
 
-**Solution1: O(n^2) (TLE)
+**Solution1: O(n^2) (TLE)**
 ```python
 class Solution:
     def longestSubsequence(self, arr: List[int], difference: int) -> int:
@@ -56,7 +56,7 @@ class Solution:
 
 -----------
 
-**Solution2: O(n)
+**Solution2: O(n)**
 ```python
 class Solution:
     def longestSubsequence(self, arr: List[int], difference: int) -> int:
