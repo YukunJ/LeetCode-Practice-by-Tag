@@ -309,6 +309,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **347**. [Top K Frequent Elements](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/347-Top%20K%20Frequent%20Elements.md)
 
+**373**. [Find K Pairs with Smallest Sums](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/373-Find%20K%20Pairs%20with%20Smallest%20Sums.md)
+
 **973**. [K Closest Points to Origin](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Heap/973-K%20Closest%20Points%20to%20Origin.md)
 
 ------- 
