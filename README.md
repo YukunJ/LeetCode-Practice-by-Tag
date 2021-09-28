@@ -255,6 +255,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **142**. [Linked List Cycle II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/142-Linked%20List%20Cycle%20II.md)
 
+**160**. [Intersection of Two Linked Lists](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/160-Intersection%20of%20Two%20Linked%20Lists.md)
+
 **147**. [Insertion Sort List](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/147-Insertion%20Sort%20List.md)
 
 **206**. [Reverse Linked List](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Linked%20List/206-Reverse%20Linked%20List.md)
