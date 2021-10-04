@@ -487,6 +487,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **341**. [Flatten Nested Iterator](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/341-Flatten%20Nested%20List%20Iterator.md)
 
+**359**. [Logger Rate Limiter](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/359-Logger%20Rate%20Limiter.md)
+
 **449**. [Serialize and Deserialize BST](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/449-Serialize%20and%20Deserialize%20BST.md)
 
 **460**. [LFU Cache](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/460-LFU%20Cache.md)
