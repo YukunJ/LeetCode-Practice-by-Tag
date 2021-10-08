@@ -517,6 +517,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **59**. [Spiral Matrix II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/59-Spiral%20Matrix%20II.md)
 
+**60**. [Permutation Sequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/60-Permutation%20Sequence.md)
+
 **66**. [Plus One](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/66-Plus%20One.md)
 
 **67**. [Add Binary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/67-Add%20Binary.md)
