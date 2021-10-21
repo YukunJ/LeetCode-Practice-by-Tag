@@ -58,6 +58,7 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **528**. [Random Pick With Weight](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/528-Random%20Pick%20with%20Weight.md)
 
+**710**. [Random Pick with Blacklist](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/710-Random%20Pick%20with%20Blacklist.md)
 **1539**. [Kth Missing Positive Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/1539-Kth%20Missing%20Positive%20Number.md)
 
 ------- 
