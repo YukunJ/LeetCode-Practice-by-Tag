@@ -140,6 +140,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **739**. [Daily Temperatures](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/739-Daily%20Temperatures.md)
 
+**1048**. [Longest String Chain](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1048-Longest%20String%20Chain.md)
+
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
 
 **1218**. [Longest Arithmetic Subsequence Given Difference](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.md)
