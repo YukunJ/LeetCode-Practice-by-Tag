@@ -71,7 +71,7 @@ class Solution:
 
     def pickIndex(self) -> int:
         """
-        we will generate a random number x between [0, self.total]
+        we will generate a random number x between [1, self.total]
         and we use binary search in the self.presum array to find a index i 
         such that self.presum[i] < x <= self.presum[i+1]
         then we can return i as the "randomly generated"
