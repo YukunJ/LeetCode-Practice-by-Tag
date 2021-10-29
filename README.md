@@ -431,6 +431,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1306**. [Jump Game III](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS%2BDFS/1306-Jump%20Game%20III.md)
 
+**1367**. [Linked List in Binary Tree](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/BFS+DFS/1367-Linked%20List%20in%20Binary%20Tree.md)
+
 ------- 
 
 **Topological Sort**
