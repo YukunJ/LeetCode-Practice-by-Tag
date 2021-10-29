@@ -125,3 +125,48 @@ class Solution:
         
         return max(INT_MIN, min(INT_MAX, sign * res))
 ```
+
+-----------
+
+**Solution3: Basis Representation**
+
+```python
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        """
+        We could also trade space for time
+        we find a power of 2 representation of dividend in base of divisor
+        and store that in an array to avoid repeatitive computation
+        
+        denote n := dividend
+        Time Complexity : O(logn)
+        Space Complexity : O(logn)
+        """
+        # Initialization and boundary case consideration
+        if dividend == 0 or divisor == 0 or abs(dividend) < abs(divisor):
+            return 0
+        sign = 1
+        if (dividend < 0 and divisor > 0) or (dividend > 0 and divisor < 0):
+            sign = -1
+        dividend = abs(dividend)
+        divisor = abs(divisor)
+        MIN = - 2 ** 31
+        MAX = 2 ** 31 -1
+        
+        # construct the power of 2 array in base of divisor
+        powersOfTwo = []
+        doubles = []
+        powerOfTwo = 1
+        while dividend >= divisor:
+            doubles.append(divisor)
+            powersOfTwo.append(powerOfTwo)
+            divisor *= 2
+            powerOfTwo *= 2
+        # search in dividend to find a representation of it in base of divisor
+        res = 0
+        for i in reversed(range(len(doubles))):
+            if dividend >= doubles[i]:
+                res += powersOfTwo[i]
+                dividend -= doubles[i]
+        return max(MIN, min(MAX, sign * res))
+```
