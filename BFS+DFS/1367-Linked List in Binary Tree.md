@@ -31,7 +31,7 @@ In this context downward path means a path that starts at some node and goes dow
         Output: false
         Explanation: There is no path in the binary tree that contains all the elements of the linked list from head.
 
-**Hints*:
+**Hints**:
 
 + Create recursive function, given a pointer in a Linked List and any node in the Binary Tree. Check if all the elements in the linked list starting from the head correspond to some downward path in the binary tree.
 
