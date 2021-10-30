@@ -20,6 +20,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **349**. [Intersection of Two Arrays](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/349-Intersection%20of%20Two%20Arrays.md)
 
+**350**. [Intersection of Two Arrays II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/350-Intersection%20of%20Two%20Arrays%20II.md)
+
 **523**. [Continuous Subarray Sum](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/523-Continuous%20Subarray%20Sum.md)
 
 **560**. [Subarray Sum Equals K](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Hashmap/560-Subarray%20Sum%20Equals%20K.md)
