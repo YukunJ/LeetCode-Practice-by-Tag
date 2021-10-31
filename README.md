@@ -537,6 +537,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **371**. [Sum of Two Integers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/371-Sum%20of%20Two%20Integers.md)
 
+**384**. [Shuffle an Array](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/384-Shuffle%20an%20Array.md)
+
 **498**. [Diagonal Traverse](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/498-Diagonal%20Traverse.md)
 
 **989**. [Add to Array-Form of Integer](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/989-Add%20to%20Array-Form%20of%20Integer.md)
