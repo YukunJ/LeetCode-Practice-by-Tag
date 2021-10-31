@@ -497,6 +497,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **359**. [Logger Rate Limiter](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/359-Logger%20Rate%20Limiter.md)
 
+**380**. [Insert Delete GetRandom O(1)](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/380-Insert%20Delete%20GetRandom%20O(1).md)
+
 **449**. [Serialize and Deserialize BST](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/449-Serialize%20and%20Deserialize%20BST.md)
 
 **460**. [LFU Cache](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Design/460-LFU%20Cache.md)
