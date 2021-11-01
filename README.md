@@ -146,6 +146,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1143**. [Longest Common Subsequence](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1143-Longest%20Common%20Subsequence.md)
 
+**1186**. [Maximum Subarray Sum with One Deletion](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1186-Maximum%20Subarray%20Sum%20with%20One%20Deletion.md)
+
 **1218**. [Longest Arithmetic Subsequence Given Difference](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1218-Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.md)
 
 **1223**. [Dice Roll Simulation](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Dynamic%20Programming/1223-Dice%20Roll%20Simulation.md)
