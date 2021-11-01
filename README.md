@@ -297,6 +297,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **735**. [Asteroid Collision](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/735-Asteroid%20Collision.md)
 
+**918**. [Maximum Sum Circular Subarray](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/918-Maximum%20Sum%20Circular%20Subarray.md)
+
 **1047**. [Remove All Adjacent Duplicates In String](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/1047-Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 
 **1249**. [Minimum Remove to Make Valid Parentheses](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Stack%2BQueue/1249-Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
