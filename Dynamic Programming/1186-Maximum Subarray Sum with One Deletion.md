@@ -36,7 +36,7 @@ Note that the subarray needs to be **non-empty** after deleting one element.
 
 -----------
 
-**Solution1: O(n) Space **
+**Solution1: O(n) Space**
 
 ```python
 class Solution:
@@ -78,7 +78,7 @@ class Solution:
 
 -----------
 
-**Solution2: O(1) Space **
+**Solution2: O(1) Space**
 
 ```python
 class Solution:
