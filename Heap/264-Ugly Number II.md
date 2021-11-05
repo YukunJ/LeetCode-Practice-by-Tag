@@ -20,6 +20,19 @@ Given an integer ```n```, return the ```n-th``` **ugly number**.
         Output: 1
         Explanation: 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
 
+**Hints**:
+
++ The naive approach is to call ```isUgly``` for every number until you reach the ```n-th``` one. Most numbers are not ugly. Try to focus your effort on generating only the ugly ones.
+
++ An ugly number must be multiplied by either 2, 3, or 5 from a smaller ugly number.
+
++ The key is how to maintain the order of the ugly numbers. Try a similar approach of merging from three sorted lists: L1, L2, and L3.
+
++ Assume you have ```U_k```, the ```k-th``` ugly number. Then ```U_k+1``` must be ```Min(L1 * 2, L2 * 3, L3 * 5)```.
+
+
+
+
 -----------
 
 ```python
