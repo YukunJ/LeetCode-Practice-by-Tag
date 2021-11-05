@@ -539,6 +539,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **67**. [Add Binary](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/67-Add%20Binary.md)
 
+**263**. [Ugly Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/263-Ugly%20Number.md)
+
 **342**. [Power of Four](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/342-Power%20of%20Four.md)
 
 **371**. [Sum of Two Integers](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Math/371-Sum%20of%20Two%20Integers.md)
