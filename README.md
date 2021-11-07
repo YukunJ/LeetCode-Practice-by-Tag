@@ -64,6 +64,8 @@ The exercises are sorted by tag, thanks to [Windsooon](https://gist.github.com/W
 
 **1539**. [Kth Missing Positive Number](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/1539-Kth%20Missing%20Positive%20Number.md)
 
+**1901**. [Find a Peak Element II](https://github.com/YukunJ/LeetCode-Practice-by-Tag/blob/main/Binary%20Search/1901-Find%20a%20Peak%20Element%20II.md)
+
 ------- 
 
 **Dynamic Programming**
