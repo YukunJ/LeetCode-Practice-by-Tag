@@ -1,6 +1,6 @@
 **1901. Find a Peak Element II**
 
-```Tag : heap/math/recursion```
+```Tag : binary search/matrix/divide and conquer```
 
 **Description:**
 
